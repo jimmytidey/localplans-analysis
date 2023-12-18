@@ -1,0 +1,5 @@
+runtime: python311
+entrypoint: gunicorn -b :$PORT app:app
+handlers:
+  - url: /.index\.html
+  expiration: "0d 0h"

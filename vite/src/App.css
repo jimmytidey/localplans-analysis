@@ -1,0 +1,13 @@
+.container {
+  max-width:var(--narrow-width);
+  margin: 1em auto;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  align-items: normal;
+  border:1px solid red;
+}
+.col {
+  flex: 1;
+}
+

@@ -1,0 +1,50 @@
+{
+    "language": "English",
+    "filetype": "pdf",
+    "toc": [
+        [
+            1,
+            "cover Local Plan Consultation A4 cover 1",
+            1
+        ],
+        [
+            1,
+            "Intepretation - Google Docs",
+            2
+        ],
+        [
+            1,
+            "Formatting LP33 02.06.20 - Google Docs",
+            4
+        ],
+        [
+            1,
+            "Intepretation - Google Docs",
+            302
+        ],
+        [
+            1,
+            "cover Local Plan Consultation A4 cover 1",
+            1
+        ]
+    ],
+    "pages": 303,
+    "ocr_stats": {
+        "ocr_pages": 13,
+        "ocr_failed": 1,
+        "ocr_success": 12
+    },
+    "block_stats": {
+        "header_footer": 259,
+        "code": 9,
+        "table": 16,
+        "equations": {
+            "successful_ocr": 0,
+            "unsuccessful_ocr": 0,
+            "equations": 0
+        }
+    },
+    "postprocess_stats": {
+        "edit": {}
+    }
+}

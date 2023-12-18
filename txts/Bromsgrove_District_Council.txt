@@ -1,0 +1,2448 @@
+1
+Contents
+Introduction 2
+Bromsgrove District: An Overview 3
+Why do we need to review the District Plan? 4
+How will the Review affect the current District Plan policies?  4
+National Planning Policy Framework 4
+Strategic Planning and the Duty to Cooperate 5
+The Plan Review Process 5
+Evidence Base 7
+ Draft Green Belt Purposes Assessment Methodology 7
+ Draft Site Selection Methodology 7
+Scoping and Sustainability Appraisal  9
+About this consultation and how to respond 9
+Next steps 10
+Vision and Objectives of the District Plan 11
+Vision 12
+Objectives 12
+Issues and Options 14
+Strategic Issues for Bromsgrove District 16
+Housing 26Employment 34Transport 41
+Town Centre and Local Centres 48
+Social Infrastructure 53
+Natural and Historic Environments  58
+Climate Change and Water Resources 63
+Glossary 66Introduction
+2
+In 2016 Bromsgrove
+was home to about
+96,800
+peopleThe District covers
+217km290%
+of the District isdesignated GreenBelt31. Introduction
+Bromsgrove District:
+An Overview
+1.1 Bromsgrove District is situated in north Worcestershire 
+and covers approximately 21,714 hectares. Although the 
+town is located only 22km (14 miles) from the centre of 
+Birmingham, the District is predominantly rural with approximately 90% of the land designated as Green Belt.
+Figure 1: Bromsgrove District in context1.2 The area is well served by motorways, with the M5 running north/south (J4, J4a and J5) and the M42 east/west 
+(J1, J2 and J3). The M5 and M42 connect with the M6 to the 
+north of Birmingham and M40 to the east. The District also benefits from train and bus connections into Birmingham 
+City Centre and the wider region, and Bromsgrove Town 
+is only 34km (21 miles) from Birmingham International Airport.
+1.3 The main centre of population in Bromsgrove District 
+is Bromsgrove Town with other larger centres being Alvechurch, Barnt Green, Catshill, Hagley, Rubery, and 
+Wythall. A series of smaller rural villages and hamlets are 
+spread throughout the District.  
+4
+Why do we need to review the
+District Plan?
+1.4 The current        Bromsgrove District Plan (BDP) (2011-
+2030), was adopted in January 2017 and contained a policy 
+which required a plan review to be undertaken by 2023 
+(Policy BDP3) as the BDP did not allocate enough housing land in locations not covered by Green Belt designation. The 
+Plan Review is needed to ensure at the very least that the full 
+housing requirement for Bromsgrove District up to 2030 can be delivered and that safeguarded land for the longer term can be identified. Furthermore, Bromsgrove District Council 
+has a duty to consider whether there are any realistic options 
+to assist the West Midlands conurbation in meeting its current housing shortfall. As Green Belt boundaries should 
+only be altered as part of plan preparation or review, and 
+only in exceptional circumstances, the Council is taking this opportunity to review the District Plan in its entirety and to 
+extend its longevity. We’ll address all of these issues 
+throughout this document.
+How will the Plan Review affect 
+the current District Plan policies?
+1.5 When adopted, the reviewed District Plan will replace 
+the current BDP . It is possible that some of the existing BDP 
+policies will be carried forward in much the same way as they 
+exist now, but we will check their appropriateness as we progress through the Plan Review process. As the reviewed 
+Plan is expected to go beyond the 2030 time period of the 
+current BDP , we will need to plan for additional housing and other supporting infrastructure and facilities at an appropriate level for the new Plan period, which means 
+that some existing policies will become out of date.
+National Planning Policy 
+Framework
+1.6 The Revised        National Planning Policy Framework 
+(NPPF) was published in July 2018. It sets out the 
+Government’s planning policies for England and how they 
+should be applied. It provides a framework which sets out how development plans should be produced and what mustbe taken into account during plan preparation. Specifically, the District Plan Review will need to:
+ Reflect the policies set out in the NPPF and associated  
+        planning practice guidance;
+ Contribute towards achieving        sustainable 
+ development and be supported by appropriate 
+       Sustainability Appraisal (SA) and        Habitat 
+ Regulations Assessment;
+ Meet the development and infrastructure requirements  
+ of the District;
+ Pay due regard to other Bromsgrove District Council
+ strategies and those of its partners;
+ Consider the unmet development needs of 
+ neighbouring authorities and demonstrate that the  
+ Duty to Cooperate has been met;
+ Take account of evidence relating to environmental  
+ constraints on development and the need to conserve  
+ the built and natural heritage;
+ Be deliverable within the Plan period taking account  
+ of identified constraints, infrastructure requirements  
+ and viability considerations.
+1.7 Many of the changes in the Revised NPPF reflect the proposals contained in the        Housing White Paper 
+Consultation and the 2017 autumn budget. The future operation of the        Community Infrastructure Levy (CIL) 
+is also under review. The Plan Review will address this 
+matter at a later date when there is clear guidance. The following is a brief summary of the significant changes 
+that the Plan Review will need to take account of:
+ A clear distinction is drawn between strategic policies,  
+ (which can be prepared by individual authorities as part  
+ of their Local Plans or jointly with other combined  
+ authorities with plan making powers) and more local  
+ policies which can be prepared in either Local or 
+ Neighbourhood Development Plans;
+ Strategic policies should be informed by a new standard  
+ local housing need assessment methodology and as  
+ a minimum should allocate sufficient sites to meet 
+ these needs; G
+GG
+GG
+G G
+GRefer to Glossary on page 66G5 Planning authorities will need to prepare and maintain  
+ a       Statement of Common Ground (SOCG) as 
+ evidence of the       Duty to Cooperate; to meet the         
+        tests of soundness, thus strengthening the 
+ emphasis of effective joint working;
+ Indicative housing need figures should be provided for  
+ designated neighbourhood areas;
+ An increased emphasis on economic productivity and  
+ the inclusion of local policies for economic development  
+ and regeneration.
+Strategic Planning and the Duty 
+to Cooperate
+1.8 The District Plan Review must be prepared in accordance 
+with the Duty to Cooperate, which sets a legal duty for the 
+Council and other public bodies to engage constructively, 
+actively and on an ongoing basis on planning issues which affect more than one local planning authority area. Following 
+the publication of the Revised NPPF this will now need to be 
+evidenced through a Statement of Common Ground. To meet the Duty to Cooperate, the Council will need to work with Worcestershire County Council, neighbouring local 
+authorities, statutory advisory bodies (Environment Agency, 
+Natural England, Historic England and Highways England) and other infrastructure providers to ensure that the District 
+Plan addresses cross-boundary issues and reflects wider 
+strategic priorities, including consideration of any needs that cannot be met in adjoining areas. The Council will also 
+consult with parish councils, residents and businesses, and 
+those within the District who have chosen to prepare a neighbourhood plan.
+The Plan Review Process
+1.9 The Council’s timetable for the District Plan Review has been developed in accordance with the requirements for plan 
+production set out in       The Town and Country Planning 
+(Local Planning) (England) Regulations 2012).         Adoption of the new District Plan is hoped to take place 
+in 2021; however any additional work that arises which 
+needs to be carried out to inform the preparation of the Plan may mean that this timeframe will alter. The Plan Review process is set out in Figure 2 on page 6. 
+We have indicated where in the process you can get involved 
+and following each consultation period, the comments we receive will inform the next draft of the Plan as it progresses.
+1.10 Evidence gathering and production of the 
+       Sustainability Appraisal (SA) Scoping Report has 
+informed the Issues and Options in this document and you can access and comment on the Scoping Report as part of this consultation process. 
+1.11 Issues and Options consultation is an early opportunity
+to check that we are thinking about the right issues to 
+address through the Plan Review. It doesn’t present new 
+planning policies or allocate sites for development; that will 
+come at later stages. Therefore, to accompany the Issues and Options consultation and to inform the Plan Review process, 
+we have also produced two draft Methodology documents 
+on the Green Belt Purposes Assessment and Site Selection. These documents set out how we intend to carry out the 
+work required to inform the Plan Review as it progresses 
+towards Preferred Options and beyond. Details of these methodologies can be found in the ‘Evidence Base’ section 
+of this document. We also welcome comments on these 
+Methodology documents as part of this consultation process, to see whether you agree with the approach we want to adopt to carry out the additional work. Details of how to 
+make comments can be found overleaf under the heading 
+‘About this consultation and how to respond’ .G
+G
+GG
+GRefer to Glossary on page 66G
+G6
+Figure 2: The Plan Review Process
+Consult on draft SA Scoping Report with  
+appropriate consultation bodies
+Preparation of Issues and Options document
+Issues and Options Consultatio nStage of Plan Preparation
+Call for Site s
+Preferred Options Consultatio n
+Preparation of Pre-Submission BD PPreparation of Preferred Options BDP
+Pre-Submission Representations
+Commencement of Examination of BDP
+Receipt of Inspector’s Repor t
+Adoption of BDPSubmission of BDP to Planning InspectoratePUBLIC
+ENGAGEMENT
+OPPORTUNITY7Evidence Base
+1.12  The preparation of a local plan needs to be 
+underpinned by an evidence base, comprising robust and 
+up-to-date information and studies, which inform the 
+planning policies as they are being drafted. For example: Strategic Flood Risk Assessment, Transport Modelling, 
+Housing Needs Assessment, Employment Needs Assessment, 
+Ecological studies, are likely to be required, to name but a few. The SA Scoping Report provides the very first level of evidence gathering, which has helped in the preparation of 
+this Issues and Options document. The evidence base will 
+continue to grow and inform us throughout the preparation of the Plan.
+1.13 A key part of the evidence base will centre on how we 
+justify taking land out of the Green Belt for development 
+purposes. Our evidence base will need to include 
+assessments of the Green Belt in Bromsgrove District and analysis of which parts of the Green Belt may be more 
+appropriate to meet development needs. Therefore, as 
+part of this consultation, we have produced two draft methodologies on which you can comment, to make sure we are approaching this work in an appropriate manner. 
+The two draft methodologies we are consulting on are:
+ Draft Green Belt Purposes Assessment Methodology
+ Draft Site Selection Methodology
+Details on where you can find these draft methodology 
+documents and how to comment on them is detailed below.
+1.14 In order to set the need for this work in context, 
+national policy is clear that Green Belt boundaries should 
+only be altered in exceptional circumstances through the preparation or review of the Local Plan (NPPF paragraph 83). 
+The BDP 2011-2030 requirements for housing and 
+employment mean that the Green Belt as identified in the current BDP has to be reviewed. The BDP requirements alone are considered to constitute the exceptional circumstance 
+for the Green Belt to be reviewed. Because Bromsgrove town 
+and the large settlements are tightly bounded by the Green Belt, there is nowhere else for future development to go. Policy BDP4 commits the Council to a full review of the Green Belt and this approach was found to be sound at the examination into the BDP .  The release of land from the 
+Green Belt is therefore necessary to meet the requirements 
+of the current BDP period, before consideration has even been given to the needs of this Plan Review which will look even further ahead.  
+Draft Green Belt Purposes 
+Assessment Methodology
+1.15 In line with the adopted BDP , and as part of this 
+Plan Review, the Council has committed to undertake a 
+full review of the District’s Green Belt. There is no national 
+guidance on exactly how a Green Belt Assessment or Review should be undertaken. Green Belt Review and Assessment 
+Methodologies from other Local Planning Authorities have 
+been considered when devising our methodology for the Green Belt Purposes Assessment for Bromsgrove District.
+1.16 This draft methodology is the first step in this process, 
+setting out how the Council thinks the review should be undertaken and the purpose of this consultation is to seek 
+views on the proposed approach, refine the methodology 
+and gain endorsement of the process as this is a hugely important piece of work. The Green Belt Purposes 
+Assessment work will not be undertaken until we have 
+considered all consultation responses and refined the methodology if/where appropriate. The finalised 
+methodology will be published accordingly and the Green
+Belt Purposes Assessment will then be undertaken. This willprovide us with important evidence to support our approachto the Preferred Options stage of the Plan Review.
+1.17 You can find the full version of the draft Green Belt 
+Purposes Assessment Methodology on our website at: 
+www.bromsgrove.gov.uk/districtplan 
+which contains the questions on which we would like your views. 8
+Draft Site Selection Methodology
+1.18  In order to identify land for development, the Council 
+will need to consider a large variety of sites for potential 
+allocation. It will be necessary to rigorously scrutinise these 
+sites to ensure the most suitable, sustainable and deliverable sites are taken forward through the Plan Review process. 
+As it is a given that land will need to be released from the 
+Green Belt, the review of the existing Green Belt against the five purposes will form one element of the assessment of land for allocation. Other assessments will include:
+ Flood risk
+ Historic or Environmental designations
+ Sustainability - distance to local facilities and public  
+ transport links
+ Highways - ability to access existing highway network/ 
+ serve new growth
+ Deliverability - whether there is a reasonable prospect  
+ the site could come forward for development in the  
+ desired timeframe, considering availability and 
+ achievability
+1.19 The Scoping Report identifies the following key 
+sustainability issues which relate to the consideration of 
+future site allocations:
+ The need to identify additional previously developed  
+ land that could be redeveloped and to encourage 
+ development on        previously developed 
+ (brownfield) land (PDL);
+ The need to protect the best and most versatile 
+ agricultural land in the District;
+ The need to locate new development away from areas of
+ flood risk, taking into account the effects of climate  
+ change;
+ The need to protect and enhance the Green Belt and the  
+ openness of the Green Belt.1.20 The Site Selection work will have a close relationship 
+with the Green Belt Purposes Assessment, as approximately 90% of the District is Green Belt, meaning it will be highly 
+likely that the majority of sites needed to meet future 
+development needs will fall within the current Green Belt. When finalised, the two resulting documents will form key components of the evidence base for the Plan Review.
+1.21 This draft methodology is the first step in this process, 
+setting out how the Council thinks the site selection process 
+should be undertaken. The purpose of this consultation is 
+to seek views on the proposed approach, refine the methodology and gain endorsement of the process as 
+this is a hugely important piece of work. The Site Selection 
+process will not be undertaken straight away after the methodology is finalised as this work needs to be informed 
+by the Green Belt Purposes Assessment. It will also be 
+informed by potential development sites submitted to us through a ‘Call for Sites’ exercise. We will update our website when we get to an appropriate point in time to issue the ‘Call 
+for Sites’ request. At this moment in time, our focus needs to 
+be on refining the methodology rather than on the merits of individual sites, so please do not submit site information as 
+part of this consultation period.
+1.22 It is anticipated that the Council will receive a high 
+volume of sites for consideration, some of which may not 
+represent sustainable locations or be consistent with the spatial strategy for the District, which will emerge as the 
+Plan Review progresses. Therefore an agreed methodology 
+will aid the consistent and objective assessment of these sites in a timely manner as we approach the Preferred Options stage of the Plan Review.
+1.23 You can find the full version of the draft Site Selection 
+Methodology on our website at: 
+www.bromsgrove.gov.uk/districtplan 
+and we welcome your comments on any aspect of the document.
+GRefer to Glossary on page 66G9Scoping and Sustainability 
+Appraisal 
+1.24 Sustainability Appraisal (SA) is a key element in 
+developing the Plan Review strategy and policies; and 
+Scoping is the first stage of the SA process. The Council is 
+legally required to carry out an appraisal of the sustainability of all proposals in order to help assess how the Plan 
+Review will contribute to the achievement of sustainable 
+development, by contributing to relevant economic, social and environmental objectives. SA is carried out at each stage of the Plan Review process.
+The Council has prepared a SA Scoping Report which includes 
+a SA Framework for the Plan Review. In addition, we have 
+undertaken some initial SA of the Options in this document. 
+The results of this analysis are set out in the Bromsgrove District Plan Review Issues and Options Sustainability 
+Appraisal, which has been published for consultation 
+alongside this document. 
+About this consultation and how to respond
+1.25 We have produced a Statement of Community 
+Involvement (SCI), which sets out the ways in which the 
+community can be effectively involved in the planning 
+system. By involving the community, the Council will gain a greater understanding of the needs of the community and 
+we can develop documents which better suit the needs of the 
+people of Bromsgrove District. This consultation conforms to the standards set out in the SCI, which you can find on our website at: http://www.bromsgrove.gov.uk/sci
+1.26 Issues and Options is the first consultation opportunity 
+for you to get involved in the District Plan Review, and we are 
+asking for your comments on whether the Issues and Options 
+we have identified across Bromsgrove District are appropriate and whether there is anything we may have overlooked that 
+you think we might need to consider. 1.27 We have produced the following documents for the Issues and Options consultation, which are open to 
+comment:
+ Bromsgrove District Plan Review Issues and Options  
+ (this document)
+ Sustainability Appraisal Scoping Report
+ Bromsgrove District Plan Review Issues and Options  
+ Sustainability Appraisal 
+ Draft Green Belt Purposes Assessment Methodology
+ Draft Site Selection Methodology
+You can comment on any aspect of this Issues and Options 
+document or any of the accompanying documents that have been produced for this stage of the Plan Review process. 
+We have also produced the following background document 
+to provide you with more information for the Issues and Options consultation:
+ Revised NPPF - Policy Review Table
+In all cases, please make it very clear which part(s) of this 
+document (or accompanying documents) you are commenting on.
+1.28 The Issues and Options consultation period will run for 
+a ten week period starting on 24th September 2018. The deadline for responses is 19th November 2018.  
+You can respond in the following ways:
+Online form: www.bromsgrove.gov.uk/districtplan
+Email:  strategicplanning@bromsgroveandredditch.gov.uk 
+Post:  Strategic Planning, Bromsgrove District Council, 
+  Parkside, Market Street, Bromsgrove, 
+  Worcestershire, B61 8DA
+Please note that by responding to this consultation period, 
+we will automatically notify you of future District Plan Review consultation periods as detailed in Figure 2 on 
+page 6.10
+The Issues and Options consultation documents can be 
+viewed at the following locations during normal opening 
+hours:
+ Bromsgrove District Council (Customer Service Centre),  
+ Parkside, Market St, Bromsgrove B61 8DA 
+ Alvechurch Library, Birmingham Road, Alvechurch,   
+ Birmingham, B48 7TA
+ Bromsgrove Library, Parkside, Market St, 
+ Bromsgrove B61 8DA 
+ Barnt Green Parish Council, 80 Hewell Road, 
+ Barnt Green B45 8NF
+ Catshill Community Library, The Community Room,  
+ Catshill Middle School, Meadow Road, Catshill,   
+ Bromsgrove B61 0JW
+ Hagley Library, Worcester Road, Hagley, Stourbridge,  
+ West Midlands, DY9 0NW
+ Rubery Library, 7 Library Way, Rubery, 
+ Birmingham B45 9JS
+ Wythall Library, May Lane, Hollywood, 
+ Birmingham B47 5PD 
+Next steps
+1.29 All representations received in response to this 
+consultation will be considered by the Council and published 
+on the website for information at: 
+www.bromsgrove.gov.uk/districtplan  Further information and regular updates about the District 
+Plan Review will also be provided here.
+1.30 The timetable for the District Plan Review is set out in 
+the Council’s        Local Development Scheme (LDS) which 
+can be viewed on the Councils website. It’s unlikely we will be able to keep to the current timetable, 
+therefore the LDS needs to be updated and re-published, explaining any alterations. However, we have decided 
+to wait until after the close of this consultation so we 
+can gauge the extent of the responses we receive. This is especially critical in relation to responses relating to the 
+evidence base methodologies. Until the methodologies have 
+been refined and endorsed, we can’t undertake the actual assessment work, therefore it’s difficult to update the LDS timeframe at this point in time.
+1.31 If you have any queries regarding any aspect of this 
+consultation, please contact a member of the Strategic 
+Planning Team on: (01527), 587010, 881663, 881328, 
+881603 or 881325 
+or email 
+strategicplanning@bromsgroveandredditch.gov.uk 
+G
+GRefer to Glossary on page 6611
+Vision andObjectives of theDistrict Plan
+122. Vision and Objectives
+of the District Plan
+Vision
+2.1 The Vision for Bromsgrove District which will underpin 
+the Plan Review needs to contribute towards the delivery 
+of the Council’s Strategic Purposes. Delivering a Bromsgrove 
+District that we all want is something that the Plan cannot achieve alone, but it will provide a significant tool to guide 
+the way towards building a District where people want to live 
+and work and are proud of the level of services on offer. 
+2.2 The Council’s Strategic Purposes are:
+ Help me to find somewhere to live in my locality
+ Help me to run a successful business
+ Keep my place safe and looking good
+ Provide good things for me to see, do and visit
+ Help me to be financially independent 
+ Help me to live my life independently2.3 The District Plan will play a leading role in delivering 
+some of the Strategic Purposes, whilst offering a supporting and guiding role for others. Taking the Strategic Purposes into 
+account, the following Vision for the Bromsgrove District Plan 
+Review has been derived:
+By the end of the Plan period Bromsgrove District and 
+its communities will have become more sustainable, 
+prosperous, safe, healthy and vibrant. People from all sections of society will have been provided with 
+better access to homes, jobs and services. 
+The attractiveness of the District in terms of its natural environment, built form and settlements 
+will continue to be preserved and enhanced.
+Strategic Objectives
+2.4 A set of Strategic Objectives has been defined that aims 
+to deliver the Plan’s Vision, as detailed above. They build 
+upon national policy and address key local challenges. 
+The Strategic Objectives provide the basis for developing the spatial strategy and policies for the District, which are 
+necessary to secure the delivery of the Vision.
+132.5 The proposed Strategic Objectives, which are not in any 
+specific order of preference, are outlined below:
+SO1 Encourage the continued regeneration of Bromsgrove 
+Town Centre to create a thriving, accessible and vibrant 
+centre providing facilities to meet the needs of Bromsgrove 
+District’s residents
+SO2 Focus new development in sustainable locations in the 
+District 
+SO3 Support the vitality and viability of local centres and 
+villages across the District
+SO4 Provide a range of housing types and tenures to meet 
+the needs of the local population, including the special needs 
+of the elderly and the provision of affordable housing
+SO5 Provide support, encouragement and connectivity for 
+economic growth of existing and new businesses, whilst also supporting farming and rural diversification and investing in lifelong education and learning skills
+SO6 Encourage more sustainable modes of travel and a 
+modal shift in transport, for example, encouraging walking 
+and cycling and promoting a more integrated, sustainable 
+and reliable public transport network across the District
+SO7 Improve quality of life, sense of well-being, reduce 
+fear of crime, promote community safety and enable active, healthy lifestyles, for example, by providing safe and 
+accessible services and facilities to meet the needs of 
+Bromsgrove District’s residents
+SO8 Protect and enhance the unique character, quality 
+and appearance of the historic and natural environment, 
+biodiversity and Green Infrastructure throughout the District
+SO9 Safeguard and enhance the District’s natural resources 
+such as soil, water and air quality; minimise waste and increase recycling including re-use of land, buildings and 
+building materialsSO10 Ensure the District is equipped to mitigate and 
+adapt to the impacts of climate change, for example, by 
+managing and reducing flood risk, by ensuring water and 
+energy efficiency and by encouraging new developments to be low or zero carbon
+SO11 Promote high quality design of new developments 
+and use of sustainable building materials and techniques
+SO12 Foster local community pride, cohesion and
+involvement in the plan making process
+?
+Q. VO 1:  Do you think the Vision 
+adequately captures what we want to 
+achieve for Bromsgrove District and the 
+kind of place we want it to be by the end of the Plan period? 
+If not, what do you think we’ve missed?
+Q. VO 2:  Do you think the Strategic 
+Objectives are appropriate to deliver the Plan’s Vision? 
+If not, what changes do you think we 
+need to make?Issues andOptions
+14
+153. Issues and Options
+3.1 The SA Scoping Report identified some Issues within 
+the District that are particularly pertinent for the Council to 
+address. The following Sections contain a series of topics, 
+under which we have set out the Issues we think the Plan Review needs to address and where possible, the Options we 
+think need to be considered at this stage of Plan preparation.
+The topics are:
+  Strategic Issues for Bromsgrove District
+  Housing
+  Employment
+  Transport 
+  Town Centre
+  Social Infrastructure
+  Natural and Historic Environments
+  Climate Change and Water Resources?
+Q. IO 1:  Do you think we have 
+identified all appropriate topics? 
+If not, what have we missed?
+Strategic Issuesfor BromsgroveDistrict
+16
+17
+4. Strategic Issues for
+Bromsgrove District
+4.1 This section identifies those strategic issues that will be 
+at the heart of the BDP Review.  
+4.2 The Revised NPPF requires a sharper focus on strategic 
+planning policies within Local Plans. Paragraph 21 states that 
+Local Plans should make explicit which policies are strategic 
+policies and these should be limited to those necessary to address the strategic priorities of the area (and any relevant cross boundary issues) to produce a clear starting point for 
+any local policies that may be needed. 
+4.3 The Council considers the relevant strategic issues to be 
+as follows:
+ Strategic Issue 1: Scale and timeframe of the new Plan.
+ Strategic Issue 2: Growing the economy and provision  
+ of strategic infrastructure.
+ Strategic Issue 3: Re-balancing the housing market  
+ through housing growth.
+ Strategic Issue 4: Broad options for development 
+ distribution and allocating land uses.
+ Strategic Issue 5: Co-operating with the West Midlands  
+ Conurbation to address wider development needs. Strategic Issue 1:  
+Scale and timeframe 
+of the new Plan
+What should the scale of the 
+Plan be?
+4.4 The Revised NPPF introduces flexibility to the way areas 
+can plan for their development needs. Plans can be produced 
+at different spatial scales. The minimum requirement is for 
+strategic policies to be in place, which can either be prepared by individual Local Planning Authorities or jointly by a mayor 
+or combined authorities with plan making powers. Local 
+policies which set out more detailed policies for specific areas, neighbourhoods or types of development can be set out in a Local Plan or        Neighbourhood Plan. 
+4.5 The current Bromsgrove District Plan has been prepared 
+by the Council as a Local Plan to meet the District’s own 
+development needs. Cross boundary co-operation took 
+place with Redditch Borough Council to allocate some land within Bromsgrove District on Redditch’s boundary to meet 
+Redditch’s housing needs. For the purposes of this Plan 
+Review consultation, it is important that the spatial scale of its coverage is established at an early stage. The Council 
+is keen to hear views on whether the Plan should be 
+prepared jointly with other authorities, or take the form of a District-only Plan. Prior to receiving these views, we have prepared this initial consultation paper under the 
+assumption that the Plan will be taken forward as a 
+District-only Plan. Bromsgrove District Council is not a member of the        West Midlands Combined Authority 
+(WMCA) and the WMCA/Mayor does not have planning 
+powers so the option of allowing the strategic policies to be set at that level is not open to the Council.
+?
+Q. SI 1:  Are there other strategic 
+issues we need the Plan Review to 
+address? 
+GRefer to Glossary on page 66G
+G184.6 The Revised NPPF makes it clear that Neighbourhood 
+Plans can be used to set out more detailed local policies such 
+as design standards and that they should allocate sites to 
+meet local housing needs. It advises that Councils should set out housing requirements for Designated Neighbourhood 
+Areas as part of their strategic policies. The Government is 
+keen to provide the opportunity for neighbourhoods to shape new development in the area to help meet housing, employment and community needs.4.7 Bromsgrove District has six Designated Neighbourhood Areas which are progressing Neighbourhood Plans. 
+These areas are: Alvechurch, Barnt Green, Belbroughton 
+and Fairfield, Catshill and North Marlbrook, Hagley, Lickey & Blackwell and Cofton Hackett. The six Designated 
+Neighbourhood Areas plus any further areas designated 
+could play an important role in the District’s future development strategy.
+A456
+A38
+A38A491
+A38
+A448A441
+A441A435
+A435A448Hagley
+Clen t
+Belbr oughtonRomsle y
+Ruber y
+Dodf ordBournheath
+BromsgroveAlvechurchBarnt GreenCofton Hackett
+Hopw oodHollyw ood
+Wythal l
+BeoleyRowney GreenBlackw ell
+Finstal l
+Tardebigg e
+Stoke Works
+Lowe r BentleyUpper BentleyCharf ordSidemoor
+Stoke Heat hBurcotCatshillMarlbrookBell HeathHoly Cros sHunningto n
+Frankl ey
+Headley Heat hMajo r’s Green
+Forhill
+Holt End
+Woodgat eM42M5
+M5
+© Crown copyright and database rights 2018
+Ordnance Survey 100023519Figure 1: Designated Neighbourhood Plan Areas in Bromsgrove District19
+?
+Q. SI 2:  Do you think the Plan should 
+cover the Bromsgrove District only and 
+continue to take the form of a District 
+Plan (like the current one) or are there wider geographical areas that the Plan 
+should also take account of? 
+Q. SI 3:  What role do you think 
+Neighbourhood Planning and 
+communities could play in delivering new development within the District? How long should we be 
+planning for?
+4.8 The District Plan will set out a long term vision for 
+Bromsgrove District looking at least 15 years ahead. 
+National policy advises that we need to plan for a minimum 
+of 15 years from adoption of the Plan. We’re hoping to adopt the new District Plan in 2021, which would mean a plan 
+timescale until at least 2036. However, it may be more 
+sustainable for the Plan period to be longer to ensure long term commitment to deliver key infrastructure projects to support growth. In other words, a plan which seeks to deliver 
+strategic infrastructure such as new roads and schools which  
+will require longer lead-in times, would need to cover a longer time frame to help achieve this. 
+1) 2018 - 2036 
+2) 2018 - 2041 
+3) 2018 - 2046 
+?
+Q. SI 4:  What timescale do you think 
+the Plan period should cover and why? 
+20?
+Q. SI 5:  Do you think the Council 
+should plan for significant employment
+growth above previous levels within 
+the District or do you think Bromsgrove’s residents should continue the trend of 
+out commuting to access jobs? 
+Q. SI 6:  Are there infrastructure 
+improvements that will specifically 
+help to encourage employment growth within the District?4.12 Providing the right sites to enable business growth in 
+the District, whether by attracting new inward investment 
+from businesses located outside the District or allowing 
+existing Bromsgrove District businesses to expand, will be crucial to rebalancing the local economy in the District. 
+Inevitably this is likely to involve some difficult decisions 
+around the suitability and availability of land to accommodate employment development in the District, particularly in the context of existing Green Belt coverage.
+4.13 The M42 is an economic advantage which could be 
+better used to attract high value industrial firms. Within 
+Bromsgrove District, M42 J2 (Hopwood) and J3 (A435) are 
+reasonably unconstrained and undeveloped. Land at these junctions could offer a distinct competitive advantage where 
+there is a regional shortage of similar accessible sites. 
+Two high level questions have been posed below; further more detailed questions can be found in Sections 6 
+(Employment) and 7 (Transport) of this document.Strategic Issue 2:  
+Growing the economy 
+and the provision 
+of strategic 
+infrastructure 
+4.9 Bromsgrove District is a successful economy, but not 
+for everyone. Growth has been lagging behind others and 
+future growth potential is limited due to employment land 
+availability. Wage growth at Bromsgrove District firms has been very low over the last ten years. Higher residents’ wages 
+are a product of out-commuting to higher wage economies. 
+Those residents who are unable or unwilling to commute receive lower wages and also continue to be exposed to high housing costs within the District. 
+4.10 Whilst Bromsgrove District is unlikely to compete
+with Birmingham for large offices and very highly paid 
+employment, existing employment stock is well used and 
+there is evidence of investment and renewal on most of the employment sites. There is very little vacant property for 
+firms to expand into, or move to from outside of the District. 
+4.11 Bromsgrove District is currently a net out-commuter 
+of jobs. This presents challenges for the District, in particular 
+concerning issues such as traffic congestion at peak times (‘rush hour’) through a high demand for travel between Bromsgrove District and surrounding destinations,
+particularly to the West Midlands conurbation to the north. 
+More detail on transport infrastructure is provided in Section 7 of this document.     21
+Strategic Issue 3:  
+Re-balancing the 
+housing market 
+through housing 
+growth
+4.14 At the national level, the Government is seeking to 
+significantly increase new house building and is giving high 
+priority to increasing housing delivery. The Government is 
+taking steps to implement this initiative through a number of planning tools such as: revisions to the NPPF , a standardised 
+methodology to calculate housing need, a housing delivery 
+test, changes to the Duty to Cooperate with neighbouringlocal authorities, promoting custom and self-build housing, and addressing the affordability gap, amongst others.
+Like every area, Bromsgrove District is expected to address 
+these issues and take its share of new development.
+4.15 The NPPF (paragraph 67) is clear that local authorities 
+should significantly boost the supply of housing through the plan making process and we should be identifying housing 
+land for 10-15 years. 
+4.16 The UK will always need to build more homes as 
+the needs of the population changes. The pace of 
+housebuilding has not kept pace with population rises; people are living longer, internal and international migration plays a more contributory factor and the model 
+family unit with 2.4 children is no longer the norm. 
+As a result the Bromsgrove housing market offers little choice and has high affordability ratios. 22?
+Q. SI 7:  Do you think we have 
+interpreted the standard methodology 
+correctly?
+Q. SI 8:  Which of the following options 
+do you consider is most appropriate and 
+why?
+Option 1:  Allocate land for about 
+6,500 dwellings up to 2036
+Option 2:  Allocate land for about 
+8,350 dwellings up to 2041
+Option 3:  Allocate land for about 
+10,200 dwellings up to 2046
+Option 4:  Irrespective of the length 
+of the Plan period, allocate land for more homes than recommended by the 
+standard methodology
+Q. SI 9:  Do you have any other 
+comments on the above options?4.17 The way local authorities have historically calculated 
+their housing requirement was often a complex and time 
+consuming process, which could be subject to challenge 
+from many different parties. Therefore, the Government has introduced a standard methodology for calculating        Local
+Housing Need. The new method sets out a prescribed way
+to calculate the amount of housing needed, based on              household projections and an adjustment for        local affordability ratios. This means that the method will be 
+consistent across all planning authorities and should not be 
+subject to challenge, thus, speeding up the plan-making process so homes can be built quicker. 
+4.18 We need to plan for a minimum of 15 years from 
+adoption of the Plan. We’re hoping to adopt the new District 
+Plan in 2021, which means planning until at least 2036.
+4.19 We have based our housing need calculation on the 
+standard methodology for the purposes of this Issues and 
+Options Consultation. 
+4.20 Depending on how long our Plan period is (please 
+refer to Q.S14, page 19), and by using the standard 
+methodology, we will need to plan for about the following number of dwellings purely to meet Bromsgrove District’s 
+local housing needs (excluding any cross boundary growth 
+and any housing associated with higher economic growth):
+1) 2018 - 2036 = about 6,500 dwellings
+2) 2018 - 2041 = about 8,350 dwellings
+3) 2018 - 2046 = about 10,200 dwellings
+Land for about 2,500 dwellings is already allocated in the 
+current District Plan and will count towards the above 
+figures.
+4.21 The Government’s standard methodology for 
+calculating local housing need makes it clear that providing 
+fewer homes than this isn’t an option.G
+GRefer to Glossary on page 66G G23
+Strategic Issue 4:  
+Broad options for 
+development 
+distribution and 
+allocating land uses
+4.22 The District Plan Review will need to test a number of 
+development distribution options before progressing with 
+the most appropriate sustainable development strategy for 
+the District. Given the scale of development needed and the timescale covered, it is highly likely that a combination of 
+options will be needed. Broad options to test could include 
+the following:
+Option 1: Focus development on Bromsgrove town - this 
+could take the form of an urban extension or extensions to 
+the built up area and would include homes and possibly community infrastructure and employment depending on 
+the scale of the housing development;
+Option 2: Focus development on transport corridors and/
+or locations with good transport links - this could focus on 
+good accessibility to the primary road network, rail and other sustainable modes of transport in a bid to ease road traffic 
+congestion within the District;
+Option 3: Focus development on the Large Settlements, 
+as identified in the existing BDP - this could take the form 
+of infilling and urban extensions to the Settlements but likely 
+to be on a smaller scale than Option 1 above. The amount of development which could be attributed to the Settlements 
+would need to take account of current Settlement size, 
+existing facilities and whether there is an opportunity to increase services and facilities, meaning that the levels of 
+distribution may not be the same for all Settlements;Option 4: Disperse development around the District, 
+allocating some new growth to a variety of settlements 
+to allow them to grow - this could distribute development 
+throughout the District according to local assessments of capacity (particularly existing facilities). Distribution would 
+be of different scales and/or infilling taking account of 
+the size of the existing developed area;
+Option 5: Focus development on the edge of the West 
+Midlands conurbation, along our border with Solihull/Birmingham/Dudley - this could  take the form of an urban 
+extension to the built up area and would include homes and 
+possibly community infrastructure and employment depending on the scale of the housing development;
+Option 6: Focus development on the edge of Redditch - 
+this could take the form of an urban extension to the built up area and would include homes and possibly community 
+infrastructure and employment depending on the scale of 
+the housing development;
+Option 7: A new settlement - development of a significant 
+scale which would also be able to support new community infrastructure and employment development;
+Option 8: Reconsideration of existing unconsented 
+allocations on the boundary with Redditch Borough - reassess existing site allocations in Bromsgrove District that 
+have not been developed to meet Redditch’s needs. 
+This follows the publication of the Revised NPPF which has brought in the standardised local housing need methodology 
+which calculates a lower level of housing need for Redditch 
+than is included within the Adopted Local Plan. Consider their availability, deliverability and appropriateness as site 
+allocations to meet the needs of either Bromsgrove District 
+or Redditch Borough;
+Option 9: Urban intensification - development in 
+existing urban areas and the potential to increase densities on allocated sites in the current BDP . Varying scales of development according to opportunities, however this 
+option is highly unlikely to deliver the housing numbers 
+needed on its own.24?
+Q. SI 12:  Do you think the Plan Review 
+should remove land from the Green Belt 
+to be designated as ‘safeguarded land’ , 
+to meet longer-term development needs beyond this Plan Review period? 
+If so, how far ahead should we look?Safeguarded land
+4.24 National planning policy emphasises the permanence 
+of Green Belt boundaries (NPPF paragraph 136). In order to 
+establish boundaries which endure beyond the Plan period, 
+it is necessary to consider not only the development needs of the current plan, but also the longer-term development 
+needs stretching well beyond the Plan period. National policy 
+states that land should be safeguarded        (Safeguarded Land) for these longer term needs, making clear that it is not allocated for development at the present time.  
+4.25 However, there are downsides to this approach. 
+Removing land from the Green Belt in sustainable locations 
+where development has been earmarked for the future, 
+increases their profile and the potential for speculative planning applications in the short to medium term. If some 
+allocated sites are more difficult to deliver, such sites risk 
+being overlooked in favour of safeguarded land which may present fewer obstacles to delivery. Recent pressures on 
+housing land supply in Bromsgrove District meant that this 
+was the case for land that was previously safeguarded for longer term use. With the new regulations now stipulating that Local Plans should be assessed at least every five years 
+to ensure they are still up to date, it may prove difficult for 
+safeguarded land to have the longevity desired in national policy.?
+Q. SI 10:  Which combination of the 
+above options do you feel are the most 
+appropriate and sustainable to meet the 
+District’s future needs and why?
+Q. SI 11:  Are there any other options 
+for development that haven’t been identified above? 4.23 All of the options above will require changes to the 
+Green Belt boundaries, details on the Green Belt Purposes 
+Assessment and Site Selection methodologies can be found
+on pages 7 and 8 of this document. When assessing these options the Council will be considering a wide range of 
+factors which are highlighted in these methodologies. At this 
+stage we are not looking for site specific responses, we are looking to ensure that sufficient options have been identified, and the correct criteria established for robust decisions to be 
+made on the spatial distribution of growth across the District. 
+GRefer to Glossary on page 66G25
+Strategic Issue 5:  
+Co-operating with 
+the West Midlands conurbation to address wider development needs 
+4.26 Bromsgrove District forms part of the Birmingham 
+and Black Country        Housing Market Area (HMA). The 
+Birmingham and Black Country HMA covers the following Local Authority areas: Bromsgrove, Birmingham, Cannock Chase, Dudley, Lichfield, North Warwickshire, Redditch, Sandwell, Solihull, South Staffordshire, Tamworth, Stratford-on-Avon District, Walsall and Wolverhampton. Some of the HMA authorities in the West Midlands conurbation have been unable to identify enough land to meet their housing needs within their own administrative boundaries and under the Duty to Cooperate, neighbouring authorities in the HMA will need to see if the housing shortfall can be accommodated elsewhere. Identifying where (beyond the conurbation) the housing shortfall should go has so far proved difficult due to the lack of established strategic planning mechanisms. 
+4.27 Across the West Midlands it has been accepted, and as 
+a result, is reflected in a number of recently adopted Local Plans, that land which is currently Green Belt will need to be reallocated for the wider development needs of the region. Whilst every effort is made to ensure that as much brownfield land as possible is built on, the fact remains that there is not enough deliverable brownfield land to meet these housing needs, even if new houses were built at high densities. 
+4.28 The Greater Birmingham Housing Market Area Strategic 
+Growth Study (SGS) has revisited the overall housing need and the ability of urban areas and brownfield land to accommodate this need. Once again, it has been established that land is going to be required beyond the West Midlands conurbation, which will mean looking within currently designated Green Belt land to meet the shortfall.4.29 The Revised NPPF provides a clear indication of the Government’s desire for joint working to address housing need and that it intends to close the loop whereby difficult matters are deferred to future plan reviews. The BDP includes a commitment at Policy BDP3 (Future Housing and Employment Growth) to undertake a review of the Local Plan by 2023 at the latest which will address the District’s role in accommodating some of the Greater Birmingham HMA’s housing needs. 
+4.30 The SGS recommends a number of Areas of Search 
+for strategic development, which should be taken forward for further assessment through the plan making process as having potential to contribute to meeting the housing needs shortfall. 
+4.31 It must be stressed that the SGS is an independent 
+study and it is not the work of the District Council. Therefore its findings do not represent the Council’s views. The SGS is available to view and download from: http://www.bromsgrove.gov.uk/council/policy-and-strategy/planning-policies/greater-birmingham-housing-market-area-strategic-growth-study.aspx  The questions below ask for your views on its approach and content.  
+?
+Q. SI 13:  What are your views on the 
+approach taken in Greater Birmingham 
+Housing Market Area Strategic Growth 
+Study (SGS)? 
+Q. SI 14:  Do you have any comments 
+on its outcomes or any views on the further work that needs to be 
+undertaken to fully test the options 
+presented in the SGS?
+GRefer to Glossary on page 66GHousing
+26
+In 2016 there were about 
+40,600
+dwellingsDuring 2016/17 
+of houses were built on previously developed land 29% In December 2017the average houseprice was nearly
+£277,000
+Over 1,600 
+homes have been built since 2011
+Since 2011 470  
+aﬀordable homes havebeen built,which is of all completions29%
+There are
+2,174
+households on the Council’s housing waiting list27%
+of pensionerslive alone
+Since 2011 39%  
+of all homes built weredetached89.5%  
+of homes are privatelyownedSince 2011 nearly 49%  
+of new homes were either 1 or 2bedroom properties
+24 
+existing gypsy and traveller pitches in the District275. Housing
+5.1 Providing sufficient homes in the right places has always 
+been a key issue in planning terms across the country, and 
+this Plan Review for Bromsgrove District is no different. 
+We now find ourselves in a time where people are living longer and modern families don’t necessarily all live under 
+one roof. Furthermore, the affordability gap is widening, 
+which is also compounding the access to housing issue, forcing grown-up children to remain in parental homes for longer in a bid to save enough money to take that first step 
+onto the property ladder. Bromsgrove District Council needs 
+to play its part in addressing these, amongst many other housing issues.Implications of SA Scoping 
+information
+5.2 The SA Scoping Report identifies the following key  
+sustainability issues:
+ The UK population will continue to grow;
+ The aging population is set to increase;
+ There is a need to create places to live in sustainable  
+ locations; There is a need to enable housing growth and plan for 
+ a mix of housing types and tenures to meet the 
+ requirements of all households.
+285.3 Based on the information we have gathered in the 
+Scoping Report and our understanding of the broad housing 
+issues facing the country as a whole, we think we need to 
+focus on the following issues in a local context, to explore how they may impact on our District and how the Plan 
+Review could address them:
+ Housing Density
+ Affordable Housing
+ Housing Mix
+ Homes for the Elderly
+ Self-build & Custom Housebuilding and Innovative  
+ Design Standards
+ Accommodation for Gypsies, Travellers and Travelling  
+ Showpeople
+Housing Density
+5.4 The NPPF advises local authorities to set their own 
+approach to housing density to reflect local circumstances. 
+Although no specific densities are required in the adopted 
+District Plan, Policy BDP7 states that the density of new housing will make the most efficient use of land whilst 
+maintaining character and local distinctiveness. Bromsgrove 
+District is known for a considerable number of large properties, which is clearly a locally distinctive feature of the District. However, this isn’t making best use of such a finite 
+resource. The Revised NPPF is steering more strongly towards 
+the use of minimum density standards, which should optimise land in town centres and other locations which 
+are well served by public transport. 
+5.5 Based on the housing requirement figures detailed 
+above, we will need to identify additional land for about: 
+(1) 4,000 dwellings (2018-2036), (2) 5,850 dwellings (2018-2041), or (3) 7,700 dwellings (2018-2046) as land for about 
+2,500 dwellings has already been allocated through the BDP 
+and will count towards the housing requirement. 
+?
+Q. H 1:  Which of the following options 
+do you consider is most appropriate and 
+why?
+Option 1:  Set a specific minimum 
+density requirement for the District as a 
+whole 
+Option 2:  Set different minimum 
+density requirements for different parts of the District
+Option 3:  Rely on local distinctiveness 
+and character within the District so that 
+new housing fits in with its surroundings
+Option 4:  Influence site density 
+through good design
+Q. H 2:  Do you have any other 
+comments on the above options?5.6 Of the homes completed between 2011 and 2017:
+ 61% were built at less than 30 dwellings per hectare  
+ (dph);
+ 21% were built at 30-50 dph; 
+ 18% were built at more than 50 dph. 
+5.7 The lower the build-density, the higher the land-take. 
+We need to strike a balance between preserving the differing characteristics of Bromsgrove District’s built environment whilst being mindful of the amount of land we will need to 
+build on. 295.10 As the housing affordability gap continues to rise, 
+the term ‘affordable housing’ is now being extended as it is 
+also expressed in relation to those people who don’t qualify 
+to be on housing waiting lists. These are people who need to buy or privately rent through the open market and includes 
+those classed as        essential local workers. Therefore, as 
+well as provision for those people on housing waiting lists, the Government is committed to improving the accessibility of home ownership for first time buyers. For aspiring home 
+owners who are struggling to obtain mortgages for the full 
+market price of a home, the Government wants to ensure that there is a range of affordable homes to support their 
+aspiration to buy. They aim to do this through the        Starter 
+Home Initiative. 
+5.11 Affordable home ownership (Starter Homes) is 
+likely to form at least 10% of all dwellings on site as part of our overall affordable housing contribution (up to 40% 
+of all dwellings on site). Whilst the Starter Home Initiative 
+positively addresses a previously overlooked housing sector, this means that the number of social rented/shared ownership dwellings available to meet the needs of those 
+people on our housing waiting list will be reduced. 
+5.12 Furthermore, the Government is committed to 
+increasing the private rental market through the        Build to
+Rent Initiative. It should make the rental market more service-focused, which will mean that living standards are 
+generally higher. The private rental sector is relatively small 
+in Bromsgrove; however we’re unsure whether that is due to limited demand or limited supply. 
+5.13 The NPPF (paragraph 77) supports housing 
+development in rural areas, such as the small settlements in Bromsgrove District’s Green Belt, where they offer affordable 
+housing for those with a genuine link to a particular 
+settlement (rural exception housing). As the housing affordability gap widens, there may be younger generations 
+of families who are being forced out of generational family 
+locations into more affordable locations, placing a strain on the accessibility of their family support network for things 
+such as childcare needs.Affordable Housing
+5.8 In December 2017, the Land Registry published figures 
+which illustrated that the average house price in England was 
+£243,582 compared with £276,713 in Bromsgrove District. 
+Delivering a wide choice of high quality homes extends to the provision of        affordable housing. These homes are 
+for people in housing need (on our housing waiting list) who 
+cannot afford to buy their own home or privately rent. 
+5.9 On housing developments of 11 dwellings or more in 
+the District, we aim to secure up to 40% affordable housing 
+units on site. Of the affordable housing provision secured, we generally specify 70% social rented and 30% 
+intermediate properties. Since the start of the BDP period 
+(2011), 470 affordable housing units have been built, which is currently 28.9% of all        housing completions. 
+Affordable housing units tend to be clustered together within 
+our larger development schemes. However, another approach is ‘pepper-potting’ where private market and affordable 
+housing tenures are located side-by-side and are 
+indistinguishable from the each other. This is often referred to as ‘tenure blindness’ .
+G
+GRefer to Glossary on page 66G
+G
+G
+G30
+?
+Q. H 3:  Do you think that we should 
+continue to try to secure up to 40% 
+affordable housing on development 
+sites?
+Q. H 4:  Do you think the social 
+rented/ intermediate housing split is appropriate? If not, why not?
+Q. H 5:  Do you think we should 
+continue to have small ‘clusters’ of 
+affordable housing properties or 
+‘pepper-pot’ them within development schemes? What is the reason for your 
+response?
+Q. H 6:  Do you think we should allocate 
+a proportion of the affordable housing 
+for essential workers?
+Q. H 7:  What level of Starter Home 
+provision do you think we need in the District?
+Q. H 8:  Do you think that sites should 
+be allocated specifically for Starter Home 
+provision in the District? If so, where?
+Q. H 9:  Do you think that more homes 
+should be built specifically for private 
+rent in the District?
+Q. H 10:  Are you aware of any of 
+Bromsgrove District’s rural settlements that have a specific shortage of 
+affordable homes for local, newly 
+forming households? If so, where?Housing Mix
+5.14 The NPPF (paragraph 61) steers local authorities 
+towards delivering a wide choice of high quality homes by 
+planning for a mix of housing based on current and future 
+demographic trends and addressing the needs of different groups in their communities to reflect local demand. 
+5.15 Background studies for the current BDP indicated that 
+the District was lacking in smaller properties (including those for our aging population) but there would still be a 
+sustained demand for 3 and 4 bedroomed properties. 
+The 2011 Census revealed that the dwelling composition in the District was: 1 bedroom (8%), 2 bedrooms (19%), 
+3 bedrooms (45%) and 4+ bedrooms (28%). Since the 
+start of the BDP period, we have been trying to redress this imbalance, and on sites which have been completed so far, 
+the following proportions of dwellings have been built: 
+1 bedroom (18.6%), 2 bedrooms (30%), 3 bedrooms (22.7%) and 4+ bedrooms (28.7%). This gives a clear indication 
+that we are working towards addressing the imbalance and 
+providing more choice within the housing market. However, we may see a continued need for larger homes if there are increases in home-based working or a desire for multi-
+generational family living. 
+5.16 The 2011 Census also revealed the following 
+proportions of housing types, indicating that Bromsgrove 
+District has a higher than average stock of detached properties, whilst all other house types are lower than 
+average stock levels.  
+Type England West Midlands Bromsgrove
+Detached 28% 29% 39%
+Semi Detached 38% 44% 37%
+Terraced 29% 27% 15%
+Flats 18% 11% 9%315.17 Whilst Bromsgrove District is predominantly rural with 
+a prosperous history, we need to ensure that the District’s 
+vibrancy continues in the future. In both our rural and urban 
+settlements, newly forming households may want to live in close proximity to their parental home to take advantage 
+of the support network it offers. Also, our aging residents 
+may want to downsize whilst remaining part of a familiar community. Addressing these issues will ensure that we have a vibrant housing stock which meets the needs of 
+Bromsgrove District’s population as it changes over time, 
+in order that the District continues to thrive.  
+?
+Q. H 11:  Which of the following 
+options do you consider is most 
+appropriate and why?
+Option 1:  Be guided by market signals 
+to determine the size and type of homes 
+the District needs
+Option 2:  Set size and type guidance 
+for different parts of the District including Homes for Life
+Q. H 12:  Do you have any other 
+comments on the above options?
+Q. H 13:  Should we be encouraging 
+a wider range of homes in our rural 
+settlements to ensure their long term 
+vibrancy?Homes for the Elderly
+5.18 People are living longer and would benefit from a 
+wider range of housing options to suit their changing needs. 
+Since the start of the current Plan period we have made 
+provision for more homes specifically for the elderly, such as the care home and independent living facilities on Recreation 
+Road in Bromsgrove Town Centre which was completed in 
+2018, and extra care provision on allocated sites for future development. This shows that we are already responding to the needs of our aging population. 
+5.19 However, there may be members of our aging 
+population that want to downsize independently but don’t 
+want apartment living, perhaps preferring a small bungalow, 
+which offers future options for live-in carers with a smaller garden or communal outdoor space or even a ‘retirement 
+village’ type of development. Equally there are people who 
+need greater levels of care than those on offer in independent living complexes. 
+?
+Q. H 14:  What would encourage you to 
+downsize if your current home is bigger 
+than you need?
+Q. H 15:  What type of home would you 
+want or need as you get older?32
+Self-build & Custom 
+Housebuilding and Innovative Design Standards
+5.20 The Government introduced the Self-build and Custom 
+Housebuilding Initiative to help boost the supply of homes 
+and provide diversity in the market. Councils are required to 
+grant sufficient planning permissions to meet the demand for        self-build plots. However, this doesn’t necessarily
+mean that those people with self-build aspirations can 
+acquire those plots with planning permission. 
+5.21 Some Councils are proactively requiring serviced plots 
+on larger housing sites specifically for the self-build market. 
+There are currently 19 entries on the Council’s Self-build and Custom Housebuilding Register, requiring serviced plots 
+within the District. 
+5.22 Furthermore, the Government wants to encourage 
+custom built homes which tend to be built to a higher 
+quality than some other homes. Builders are more likely to use modern construction techniques alongside innovative 
+design and energy efficient measures to build themselves 
+life-long homes that can adapt to their changing needs whilst being cost effective to run and maintain.
+5.23 There are also people who may like a life-long home 
+that adapts to their changing needs without having to build it themselves. Whilst the building industry has minimum 
+build standards to meet, there are beneficial additions that 
+could be provided, such as wheelchair adaptable/accessible dwellings, which includes specifications for minimum door 
+widths and space standards, for example. Also, there are 
+optional requirements to reduce daily water consumption. 
+5.24 As we try to meet the demand for new homes, 
+developments are often perceived to be ‘crammed in’ . One tool for assessing and improving the design of development is       ‘Building for Life’,which aims to ensure 
+that the design of new homes and their neighbourhood 
+are as attractive, functional and sustainable as possible. ?
+Q. H 16:  Which of the following 
+options do you consider is most 
+appropriate and why?
+Option 1: Allocate sites purely to meet 
+the provisions of the self-build market
+Option 2:  Ask developers to provide a 
+number of plots for the self-build market 
+on larger housing sites
+Q. H 17:  Do you have any other 
+comments on the above options?
+Q. H 18:  Do you think we should be 
+aspiring to achieve higher than minimum design standards? 
+If so, should this be 100% of all new 
+homes built or just a proportion to make 
+future adaptations easier?
+Q. H 19:  Are there any specific design 
+standards or innovative building 
+techniques that you think we need to address or encourage? 
+If so, what are they?G
+GRefer to Glossary on page 66G33?
+Q. H 22:  Do you think there are any 
+Housing Issues that we have missed? 
+If so, please tell us what they are.Accommodation for Gypsies, 
+Travellers and Travelling Showpeople
+5.25 When we are considering the housing needs of the 
+District, we also need to take into consideration the housing 
+needs of different groups in the community, which includes 
+gypsies, travellers and travelling showpeople (NPPF paragraph 61). Alongside the NPPF , the Government 
+published ‘Planning policy for traveller sites’ (August 2015) 
+which gives us a better understanding of how we should approach their differing housing needs, whilst  ensuring they have access to education, health, welfare and employment 
+infrastructure. 
+5.26 We currently have 24 permanent gypsy and traveller 
+pitches in the District. The Worcestershire Gypsy and 
+Traveller Accommodation Assessment (GTAA) (November 2014), recommends that Bromsgrove District needs to 
+identify land for up to 9 permanent pitches between 
+2019/20 and 2033/34 (p.96). No additional need has been identified for Showperson yards or transit plots during 
+this same period, however anecdotal evidence seems to 
+suggest that there is a need. ?
+Q. H 20:  Which of the following 
+options do you consider is most 
+appropriate and why?
+Option 1: Extend existing facilities 
+within the District 
+Option 2:  Allocate a new site for 
+permanent pitches within the District
+Option 3:  Allocate land for a transit 
+site for families passing through the 
+District
+Q. H 21:  Do you have any other 
+comments on the above options?Employment
+34
+Service related industries
+account for over 55%  
+of jobs in the District
+82%  
+of working age residents are economically active
+The District has a working
+age population of
+58,000 39 
+schools£Average annual income ofBromsgrove residents is 
+£34,500
+Average annual income ofBromsgrove employees is 
+£25,800     The average     distance      commuted      to work is
+16.6km
+Nearly 14%
+of economically activeresidents are self-employed
+7,185
+enterprises in 2017356. Employment
+6.1 Bromsgrove District is home to a successful labour force, 
+with employment levels being amongst the highest in the 
+West Midlands. However whilst the average earnings of 
+residents is very high in comparison to national and regional data, local wages earnt within the District are amongst some 
+of the lowest in the West Midlands region. This disparity 
+is largely due to the desirability of many places within the District to live which are within commuting distance of larger urban areas offering more employment opportunities, such 
+as Birmingham.  
+6.2 Bromsgrove District has an ageing population which 
+has implications for the local labour force. The economic 
+activity rate and employment rate for the District have both fallen in recent years, primarily due to people leaving the 
+labour force through retirement. This is supported by the 
+fact that the unemployment rate has not increased during this time. However a shrinking labour force has implications 
+for the productivity of the local economy, with a real risk 
+that without attracting younger people to live and work in Bromsgrove District, trends will continue and local businesses will find it difficult to access a sufficiently skilled pool of local 
+employees. 6.3 The local business base is very stable with a high number 
+of successful start-ups and expanding businesses within the small and medium enterprise (SME) bracket. However, 
+it is apparent from consultation with local businesses that 
+within the District there is a lack of space for expansion, often termed as ‘grow-on’ space, meaning companies may be forced to leave the District for premises in adjacent local 
+authorities in order to expand their businesses. Only 1.25% 
+of firms employ over 50 workers in the District. 
+6.4 Within the District there is a large supply of small office 
+units, including many on existing industrial estates and business parks. The vacancy rate for offices is around 5.5%, 
+whereas a vacancy rate of 7.5% is considered to be healthy. 
+By contrast there is a much smaller supply of larger employment units in sectors connected to manufacturing 
+industries or storage and distribution. A recent survey of local 
+businesses highlighted the need for a wider range of units, freehold property, serviced plots and office property that is in accessible locations. Crucially for attracting investment
+and job creation into the District is the fact that it is 
+advantageously located for businesses, being connected to major motorway junctions. However, infrastructure capacity 
+is a concern for local businesses. The District is also home 
+to a number of railway lines and train stations with direct services to Birmingham, Worcester, and Kidderminster 
+and connections beyond.   
+6.5 The NPPF makes sustainable economic growth a key 
+issue for plan making, stating that “significant weight” should 
+be placed on the need to support economic growth through the planning system. Site allocations for employment uses should be reviewed regularly to ensure the most appropriate 
+sites are protected for employment uses to meet Bromsgrove 
+District’s business needs.
+6.6 In April 2017, the District Council adopted corporate 
+economic priorities to ensure a commitment to addressing current barriers and capitalising on opportunities for 
+growing the local economy in the coming years. There are 
+nine economic priorities with cross-cutting themes connected to issues such as transport and connectivity, 
+the local housing market, and improving centres within 
+the District.
+366.7 The District Plan Review process needs to identify 
+and plan for how Bromsgrove District’s economy should 
+grow in the future, including the relationship between 
+Bromsgrove District’s local economy and the wider West Midlands regional economy. 
+Implications of SA Scoping 
+information
+6.8 The SA Scoping Report identifies the following key 
+sustainability issues:
+ Average weekly employee earnings for people working  
+ in Bromsgrove District are significantly lower in 
+ comparison to West Midlands and national averages;
+ There is a need to attract higher paid jobs to the District  
+ to encourage more people to live and work in the District  
+ and reduce out-commuting;
+ The District’s existing employment land supply is limited  
+ to a small number of historical sites with low levels of  
+ completions in recent years;
+ There is a need to improve and retain skills in the local  
+ labour force;
+ Retention and expansion of the manufacturing sector  
+ in the District, particularly higher value, skilled 
+ manufacturing, could have a positive impact on other  
+ supply-chain industries and small, local businesses;
+ The need to improve coverage of broadband in rural  
+ parts of the District, enabling more access to services and  
+ potential for home working.
+6.9 Based on the information we have gathered in the 
+Scoping Report and our understanding of the wider employment issues, we think we need to focus on the 
+following issues in a local context, to explore how they may 
+impact on our District and how the Plan Review could address them:
+ Growing the Local Economy 
+ Type and Location of Employment Land 
+ Employment Opportunities in Rural Bromsgrove
+ TelecommunicationsGrowing the Local Economy 
+6.10 As stated in paragraph 4.11 on page 20, Bromsgrove 
+District is currently a net out-commuter of jobs; there are a 
+higher number of people who live in the District but choose 
+to commute to jobs elsewhere, than there are people who live in other areas but commute into Bromsgrove District 
+to work. 
+6.11 In order to address this situation there are a number 
+of issues for the Plan Review to investigate around where 
+and how much employment land should be provided in the 
+District, how many jobs are being created and sustained by local businesses, and what type of jobs these are or should 
+be in the future. 
+6.12 Providing the right sites to enable business growth 
+in the District and to provide a wider range of local 
+employment opportunities for those who don’t wish to commute, whether by attracting new inward investment 
+from businesses located outside the District or allowing 
+existing resident businesses to expand, will be crucial to reducing the discrepancy between        average weekly employee earnings and        average weekly resident 
+earnings. The local economy lacks a whole tier of medium 
+and larger sized firms and the District lacks property and land for such firms to grow into. For Bromsgrove the M42 is an 
+economic advantage which could be better used to supply 
+chains feeding the West Midlands manufacturing economy. However rebalancing the local economy in Bromsgrove 
+District may also involve some difficult decisions around 
+the suitability and availability of land to accommodate employment development in the District, particularly in 
+the context of existing Green Belt coverage.   
+6.13 More up-to-date evidence on employment needs for 
+the District is required to inform the Plan Review. Evidence 
+will need to consider how the existing local economy 
+functions, what future jobs growth forecasts over a given time period will look like, the available supply of labour force 
+in the District to take up new employment opportunities, 
+and how historical rates of take-up of employment land in the District relates to future projections of need. 
+GRefer to Glossary on page 66G
+G376.14 Considering these factors will ensure the Plan Review 
+and supporting evidence base provides a robust basis to 
+allocate the appropriate amount of land for employment 
+development to ensure sustainable economic growth in the District. The Revised NPPF states that “planning policies 
+and decisions should help create the conditions in which 
+businesses can invest, expand and adapt” . Therefore, it is not reasonable for the Plan Review to ignore options for economic growth.   
+?
+Q. E 1:  Which of the following options 
+do you consider is most appropriate and 
+why?
+Option 1:  Plan for a minimum level 
+of employment development across the 
+Plan period, relating to assessed needs
+Option 2:  Plan for a small uplift in 
+jobs and land requirement, in the region of 10% above minimum evidence 
+requirements 
+Option 3:  Plan for a large uplift in 
+jobs and land requirement, in the region 
+of 25% above minimum evidence requirements 
+Option 4:  Plan for a level of 
+employment development that aligns 
+with levels of housing growth in the 
+District over the course of the Plan period, including consideration of any 
+housing or employment shortfall arising 
+from neighbouring local authorities 
+Q. E 2:  Do you have any other 
+comments on the above options?Type and Location of 
+Employment Land
+6.15 The        employment land requirement in the BDP 
+is 28 hectares of land allocated to meet the employment 
+needs of the District up to 2030. The most recent 
+employment land availability study for Bromsgrove District (2016), shows an        employment land supply for the 
+District of approximately 35 hectares. However as this land 
+is built out for employment purposes, it is likely that new locations for employment development will be required to meet needs beyond the current BDP period. Equally, if some 
+employment land fails to be built out, we will need to 
+review whether it is still appropriately allocated for future employment growth.
+6.16 Being situated adjacent to the West Midlands 
+conurbation, it is important for Bromsgrove District to 
+create a resilient and sustainable local economy. 
+Competition with surrounding local authorities to attract investment in the District may be appropriate for certain 
+employment sectors. However it may also be necessary to 
+plan for the local economy in such a way that avoids the risk of market saturation for other employment sectors that are already well established within the wider region. 
+6.17 It is important that the Plan Review is based on an 
+understanding of business needs operating within the 
+District and wider region, in order for land allocations to 
+be identified based on qualitative needs as well as solely quantitative evidence. The North Worcestershire Economic 
+Development and Regeneration (NWedR) team and the 
+well-established Bromsgrove Economic Development Theme Group are important forums to provide information about 
+local business needs across the District. G
+G
+GRefer to Glossary on page 66
+386.18 Reference to the ‘employment land supply’ for the 
+District in this section is related to        B use development 
+only. There are however other uses in planning terms that 
+provide job opportunities across the District and it is appropriate for the Plan Review to consider the pros and cons 
+of planning for these types of employment generating uses 
+alongside traditional B use employment development. Examples would include car repair garages, food and drink outlets or leisure uses such as gyms, which despite having a 
+much lower density of employees than many B use 
+development, still provide local employment opportunities and thus make a contribution to the local economy.  
+6.19 The Bromsgrove economy is constrained by a lack 
+of labour and a lack of commercial floorspace and land. 
+In growing the employment base, the Council could look at 
+how it can support the continued improvement in the West Midlands manufacturing economy by providing new sites 
+to meet footloose demand. The provision of sites around 
+25 hectares would help to meet this demand and also meet the needs of local firms who are seeking to expand. There is an opportunity for land in Bromsgrove to 
+complement the West Midlands Combined Authority 
+Strategy, but also to directly compete with the core of the Combined Authority if the District offers land supply that 
+is commercially more attractive.
+6.20 The future challenge for the District’s Office market is 
+to encourage SMEs to mature in the area. Helping them grow from small to medium firms and providing a wider range of 
+local employment opportunities across the whole spectrum 
+of skills. A focus on smaller and medium sized flexible workshop property which could be used for both offices and 
+light industrial uses could help address the strongest local 
+demand for industrial workspace which is between 150 and 350 sq.m.?
+Q. E 3:  Which of the following options 
+do you consider is most appropriate and 
+why?
+Option 1:  Meet as much employment 
+need as possible on existing designated 
+sites where intensification opportunities exist (these opportunities may only meet 
+a small proportion of need) 
+Option 2:  Expand existing 
+employment sites around currently 
+designated employment land, to increase land supply beyond that offered 
+by Option 1
+Option 3:  Allocate new freestanding 
+employment sites in sustainable 
+locations, including transport corridors and motorway junctions
+Option 4:  Allocate new employment 
+land for approximately 25 hectare sites 
+to meet the needs of medium and larger 
+sized firms as part of mixed use strategic allocations, where large scale housing 
+allocations are proposed in the Plan 
+review. This could include wider employment generating uses as well 
+as more traditional B use employment 
+development
+Q. E 4:  Do you have any other 
+comments on the above options? G
+GRefer to Glossary on page 66
+396.23 It will be important for the Plan Review to support 
+the proportionate expansion of rural businesses, including 
+proposals for conversion, taking into account the impact 
+on the inherent nature of rural areas, including Green Belt considerations. Furthermore, supporting the growth of the 
+rural economy and local employment opportunities in more 
+rural locations may be a consideration for local communities engaged in the neighbourhood planning process. 
+6.24  In the context of the Plan Review and setting an overall 
+target for strategic employment land, it may be necessary to review whether the current amount and distribution of 
+employment development is the most appropriate for the 
+future. If evidence finds that existing sites in supply provide a suitable level of jobs for the Plan period, or suitable sites are 
+available within or on the edge of existing urban areas, then 
+it is unlikely that the identification of potential employment sites in the more rural parts of the District would be 
+necessary. 
+6.25 However, should evidence suggest that more 
+employment sites are required to support other forms of 
+development in the Plan period, particularly new housing, it may be the case that further (Green Belt) land across the District will have to be considered as potential development 
+locations.?
+Q. E 5:  Do you think we should 
+pursue a flexible approach to allowing 
+alternative business uses on land 
+designated for traditional employment use? If so, how do we ensure that we 
+retain sufficient land allocations for 
+traditional B use employment? 
+Employment Opportunities in 
+Rural Bromsgrove
+6.21 The sites within the District’s employment land 
+supply designated for protection as B use employment land 
+are those considered to be sites of strategic importance. 
+These are located nearer to the more built up areas of Bromsgrove District’s main urban area, the southern edge 
+of Birmingham, and the edge of Redditch (with some sites 
+within Bromsgrove District serving the employment needs of Redditch Borough).  
+6.22 Other sites are located in the District which provide for 
+smaller scale employment development and include both B use employment uses and wider employment generating 
+uses. These sites are in Green Belt locations and are located in 
+both open countryside and within or adjacent to smaller rural settlements and therefore may not always be in the most 
+sustainable locations and may only meet a small proportion 
+of the District’s employment need. However, they are still likely to make a contribution to the local employment offer 
+and are important in supporting a prosperous rural economy. 
+40?
+Q. E 6:  Which of the following options 
+do you consider is most appropriate and 
+why?
+Option 1:  Encourage rural enterprise, 
+through supporting diversification, 
+conversion and infill opportunities 
+Option 2:  Allocate larger parcels of 
+land in rural areas for employment development, where proven to be a 
+sustainable location and attractive to 
+the market 
+Option 3:  Provide a mix of both of the 
+above options 
+Q. E 7:  Do you have any other 
+comments on the above options?Telecommunications
+6.26 Advanced, high quality and reliable 
+telecommunications infrastructure is essential for economic 
+growth and, subsequently brings improvements to 
+residential networks. We need to support the expansion of electronic communications networks, including next 
+generation mobile technology and high speed broadband 
+connections, especially if we want to encourage growth within the District’s economy. 
+?
+Q. E 8:  Is there anywhere in the District 
+that would particularly benefit from 
+upgraded telecommunications 
+infrastructure? If so, where?
+?
+Q. E 9:  Do you think there are any Employment Issues that we have missed? 
+If so, please tell us what they are
+Transport
+41
+There is close access to the
+M5 and M42Over 73%  
+of residents travel
+to work by car
+4%  
+of residents 
+travel to workby train
+12.5% 
+of households do
+not own a car, whilst50% have
+two or more cars  
+Almost 63% of carbon
+emissions are generated by transport3  Air Quality
+Management AreasThere are 5  railway
+stations42
+7. Transport
+7.1 Bromsgrove District’s location in the centre of the 
+country means the District has excellent connectivity to 
+major transport networks. Significant motorway junctions 
+are located within the District, as a result of both the M5 and M42 motorways passing close to Bromsgrove town. This can 
+cause issues across the District in the event of disruption on 
+the Strategic Road Network. Major A-roads that cross the District and link Bromsgrove District’s settlements to large settlements in adjacent local authority areas include the A38, 
+A456, A448, A491, A441 and A435. 7.2 A number of railway lines run through the District, 
+including the cross-city line. Train stations are found at the larger village settlements of Alvechurch, Barnt Green, Hagley 
+and Wythall in addition to Bromsgrove Town train station. 
+Work is already underway to extend the cross-city line to Bromsgrove Town train station from its current route through 
+Barnt Green, with completion expected later in 2018. 
+Therefore connectivity with the conurbation is very good, although it is poorer to the south towards Worcester, 
+Cheltenham, Gloucester, Bristol and London and requires 
+investment in both infrastructure and rolling stock.  Bus services link Bromsgrove Town with Birmingham to the 
+north, Redditch to the east, Droitwich (and connections to 
+Worcester) to the south and Kidderminster to the west.   
+437.3  Whilst Bromsgrove District’s location in relation to the 
+transport network is advantageous in terms of accessibility 
+and choice of travel modes, it also creates challenges for how 
+the network continues to operate smoothly, in particular where demand is growing. 
+7.4 Transport infrastructure is often complex to plan for and 
+expensive to install and maintain. Growth in the economy offers the opportunity for significant financial contributions 
+to be secured from new development as a means of funding 
+additional infrastructure. In the context of the future growth of Bromsgrove District, as well as the wider sub-region, 
+transport infrastructure is a crucial component of delivering 
+economic growth plans and enabling new development to be delivered.  
+7.5 Opportunities also exist through other funding 
+sources to improve transport infrastructure, including where 
+greater provision of walking and cycling options offer more 
+sustainable alternatives to other transport modes. Investing in this type of transport infrastructure has a number of benefits. It seeks to address the challenge of reducing 
+demand on congested sections of road with the aim of 
+reducing journey times. It also has the potential to provide recreational opportunities for local communities, for 
+example new cycle routes/paths, and to contribute to 
+schemes attempting to address areas of poorer air quality      (Air Quality Management Areas) within the District.  
+7.6 It is important for local authorities to undertake an 
+assessment of the transport implications in developing or 
+reviewing their Local Plan. As a minimum, the transport 
+evidence supporting the Plan Review should identify the opportunities for encouraging a shift to more sustainable transport usage, and should include future transport 
+infrastructure requirements within infrastructure 
+spending plans, linked to financial contributions from new development as well as other funding sources.  7.7 Worcestershire County Council Local Transport Plan 4 
+(LTP4) states that within the County, there is “significant 
+strategic demand to travel, particularly on key interurban 
+road and rail networks which provide direct connections between major economies including Greater Birmingham, 
+Greater Bristol, Cardiff and South Wales, Oxford, London 
+and the South East and further afield. ” 
+7.8 The District Council has a set of key priorities and 
+strategic purposes for the period 2017-2020. Transport is a 
+key element of these corporate aims, with specific reference made to reducing congestion, particularly along the A38 
+corridor. The Council also has a set of adopted economic 
+priorities for the District, which acknowledges the importance of  ‘connectivity’ to enabling continued economic 
+growth in future years by making it easier and quicker for 
+people to move between homes, jobs, essential services and leisure uses around the District.
+Implications of SA Scoping 
+information
+7.9 The SA Scoping Report identifies the following key 
+sustainability issues:
+ The need to address issues with the capacity of the road  
+ network and improve congestion hotspots; 
+ The need to ensure interconnection between public  
+ transport services, e.g. connections from the Town  
+ Centre to Bromsgrove Town train station or between  
+ rural bus routes;
+ The need to address the location of key public 
+ transport nodes, e.g. Bromsgrove Town train station,  
+ and where development is located in relation to 
+ sustainable transport options;
+ The need to encourage more walking and cycling, 
+ including provision of safe and interconnected routes;
+GRefer to Glossary on page 66G44
+7.10 Based on the information we have gathered in the 
+Scoping Report and our understanding of wider transport 
+issues, we think we need to focus on the following issues in a 
+local context, to explore how they may impact on our District and how the Plan Review could address them:
+ Car journeys and Impact on the Road Network
+ Accessibility to Public Transport Services
+ Walking and Cycling Opportunities
+Car Journeys and Impact on the 
+Road Network
+7.11 Bromsgrove District is relatively affluent in comparison 
+to both national and regional averages and perhaps as a 
+result of this, has high levels of car ownership per household. 
+When combined with the fact that the District sits adjacent to the West Midlands conurbation and there is a high level 
+of out-commuting of Bromsgrove District residents to jobs in 
+the conurbation, this means demand for road travel is high, particularly during peak hours. Of all Bromsgrove District residents who travel to work by car, the largest proportion 
+travel in the range of 10-20km (6-13 miles) to their places 
+of employment. In addition to the commuting patterns of Bromsgrove District residents, the road network is important 
+for economic growth and the success of local businesses, 
+as well as how services and leisure uses are accessed by both the local population and visitors to Bromsgrove District. 
+7.12 Congestion occurs at key junctions on the network such 
+as M42 J1, the ‘Oakalls/ Slideslow roundabout’ (A448/A38), 
+A38 - Charford Road, and A38 - Austin Road, all of which 
+connect with the A38 running through the centre of Bromsgrove District’s urban area. Significant investment is already being made on the A38 route in the form of a Major 
+Scheme bid with funding from a number of different sources 
+already secured, and other funding options being considered. 
+7.13 Other parts of the District also suffer from congestion 
+hotspots, such as stretches of the A456 through Hagley and sections of the A441 and A435 around motorway junctions. 
+This congestion principally occurs for two main reasons: 
+the volume of vehicles using a particular route, and the overall capacity of that route.7.14  We think that transport planning for the Plan Review 
+needs to consider both travel demand and network capacity. 
+Factors that are likely to affect travel demand and the issues 
+inherent within these are:
+ Scale and location of new development - where will  
+ people be living, where will they travel for work or to  
+ access other services such as retail, how many trips  
+ will take place by car, what times of the day will these  
+ trips mostly take place?
+ Availability and attractiveness of other modes of  
+ transport - what public transport services run locally,  
+ how frequent and reliable are these services, how much  
+ does the service cost, do they link to significant services  
+ or employment opportunities? 
+ Behavioural change - would people be happy to walk  
+ or cycle locally to access jobs or services, would people  
+ consider sharing car journeys, can people work from  
+ home if it means a reduction in commuting? 
+ Ease of access to and cost of car parking - 
+ the availability of low cost car parking is a significant  
+ factor in influencing decisions to take alternative forms  
+ of transport. 
+45Factors that are likely to affect network capacity and the 
+issues inherent within these are:
+ Suitability of existing road network - is existing 
+ infrastructure in need of investment due to age, 
+ condition, size or location? Can existing infrastructure  
+ be updated or maintained or is new development 
+ necessary to incorporate new infrastructure? 
+ Will a part of the network operate differently with new 
+ development nearby than it does currently? 
+ Importance of the network - will a part of the 
+ network enable important housing, employment or  
+ other development to take place, does a particular part  
+ of the network link to large and/or important places 
+ for services, jobs, or housing?
+ Infrastructure constraints - can schemes be delivered  
+ based on physical or technical feasibility such as land  
+ availability, who is responsible for a junction or link on  
+ the road network, what funding sources are available to  
+ contribute to the cost of new or improved transport  
+ infrastructure? 
+7.15 In addition to addressing congestion, the Plan Review 
+will need to address other road network issues in relation 
+to new development within the District. Issues such as road 
+safety for drivers and how the pedestrian environment interacts with the road network are also important 
+considerations for the Plan.  
+7.16 To enable the effective operation of an entire transport 
+network, rather than one small part of the network in 
+isolation, it is important that planning for infrastructure provision is done strategically by considering the operation 
+of the transport network within a larger part of the District 
+or even across the sub-region. 
+7.17 Working together with Worcestershire County Council 
+(as the responsible Highways Authority for Bromsgrove 
+District) and other relevant organisations such as Highways England, the District Council will ensure the issue of transport 
+is a key consideration when determining how and where 
+growth is planned for, and what supporting infrastructure is required to support it. ?
+Q. T 1:  Are there any parts of the 
+District’s road network you think are a 
+priority for addressing in terms of 
+congestion issues? 
+If so, where are these located?
+Q. T 2:  Are there any parts of the 
+District’s road network you think are a 
+priority for addressing in terms of road safety (including pedestrian and cycling 
+safety), air quality and pollution, or 
+enabling development sites? 
+If so, where are these located?
+Q. T 3:  Do have any ideas or solutions 
+for addressing the parts of the road 
+network you have identified as requiring action or investment?
+Q. T 4:  Should existing transport issues 
+and future infrastructure requirements 
+be a key factor in where new 
+development is located in the future?
+Q. T 5:  Do you think more radical 
+transport infrastructure solutions should be considered for increasing capacity on 
+the road network? 
+What do you think these could be?46
+Accessibility to Public Transport 
+Services
+7.18 Key to a choice in travel modes is cost effective and 
+efficient public transport options within the District. 
+The convenience of private car travel means this mode of 
+transport will remain the most popular, by some margin, for commuting as well as general travel. However, the more 
+cost effective and efficient the local public transport options 
+are in and around Bromsgrove District, the more likelihood of attracting people to use other forms of transport such as rail or bus services.  
+7.19 Travel to work data from the 2011 Census shows that 
+approximately 4% of work journeys by Bromsgrove District 
+residents are by train. Whilst this figure is low compared to 
+car journeys, it is actually a higher proportion than many surrounding areas in Worcestershire and the West Midlands. 
+Bromsgrove Town train station was recently rebuilt to enable 
+the station platforms to accommodate larger passenger carrying capacity and also provide a revamped station 
+building and car parking facilities. The new station opened 
+in July 2016. 
+7.20 The extension of the West Midlands conurbation 
+cross-city line later in 2018 will provide more services per 
+hour between Bromsgrove Town and central Birmingham, including stations in between such as Longbridge, Selly Oak, 
+and University. This is a significant event and will offer far 
+more opportunities for travel by train from Bromsgrove Town, in particular to access job opportunities, larger retail and 
+leisure services, and higher education opportunities. Recent research by ‘Zoopla’ found that Bromsgrove Town was 
+one of the most cost effective places to commute by train to a nearby conurbation (West Midlands) in the entire country, 
+based on house value uplift in comparison with rail fare 
+season ticket costs.    
+7.21 In terms of bus transport in Bromsgrove District, there 
+are a number of established services which offer regular links between Bromsgrove Town and surrounding centres in all 
+directions. Bus travel to access onward rail services is also 
+important in reducing car demand, particularly bearing in mind that Bromsgrove Town’s train station sits just over a mile away from the Town Centre. Whilst both rail and bus 
+services are privately owned and operated and therefore 
+beyond the scope of the planning system, the extent and location of new development proposed through the Plan 
+Review will be an important factor in determining the 
+current and future viability of public transport provision, including the potential for expansion plans in the future.   
+?
+Q. T 6:  Which areas of the District do 
+you consider to be most sustainable in 
+terms of public transport accessibility?
+Q. T 7:  At what size and scale of 
+development do you think it is necessary 
+to directly provide for public transport provision?
+Q. T 8:  Is there anything specific that 
+would encourage you to use public 
+transport services more as opposed to 
+travelling by car?
+47Walking and Cycling 
+Opportunities
+7.22 In addition to the issues discussed above, sustainable
+transport modes include the ability of people to travel 
+between homes, places of employment and services 
+by walking or cycling. Clearly this form of travel is more relevant to shorter, local trips although in recent years the 
+increasing popularity of cycling in the UK has meant longer 
+commuting distances may well be undertaken by bicycle for some people. 
+7.23 These forms of travel have clear advantages over other 
+forms, being much cheaper and also generally beneficial to health as a source of regular exercise. However, many people 
+have concerns over safety when considering longer distance 
+walking and cycling, as well as the inconvenience of poor weather or not being able to carry larger or heavier items 
+while travelling. 
+7.24 Issues such as lighting, maintenance of surfaces, 
+quality of the environment and severance of routes (and how 
+these are crossed) are all important considerations to address when deciding whether to make a journey on foot or bicycle as opposed to the car, bus or train. In particular where 
+severance is concerned, it is important that planning for this 
+type of movement takes a strategic approach to determining scheme locations and the extent of infrastructure required, 
+to ensure full journeys can be made between important 
+destinations rather than people being ‘cut-off’ partway through a journey.      
+7.25 Funding has been secured by Worcestershire County 
+Council through the National Productivity Investment Fund 
+(NPIF), announced in October 2017, to implement a number 
+of new sustainable transport infrastructure improvements to provide a better walking and cycling experience in and around Bromsgrove District’s urban area. The proposed 
+schemes are still in the early stages of planning, however 
+they will include proposals for new stretches of infrastructure as well as improvements to existing stretches such as along 
+National Cycle Route 5 which runs through the centre of 
+Bromsgrove Town. ?
+Q. T 9:  What would encourage you to 
+walk or cycle more as opposed to 
+travelling by car, especially for shorter 
+journeys in and around Bromsgrove Town and the District’s larger villages?
+Q. T 10:  Are there any areas of the 
+District you think would benefit most 
+from potential funding sources to deliver 
+new walking and cycling routes?
+Q. T 11:  Are there any areas of the 
+District where funding sources could help fund the improvement of any existing 
+walking or cycling routes?
+?
+Q. T 12:  Do you think there are any 
+Transport Issues that we have missed? 
+If so, please tell us what they are.Town Centre andLocal Centres
+48
+£Bromsgrove Town Centre
+is bene/f_itting from a
+£1,600,000
+heritage-led regenerationschemeVacant retail units inBromsgrove Town Centrehas fallen to
+10.3%49
+8. Town Centre and
+Local Centres
+8.1 Once a medieval market town, Bromsgrove Town Centre 
+lies at the heart of the District and is a thriving centre with 
+shops, employment, leisure and tourism, cultural and social 
+facilities. Whilst the Council aims to maintain and enhance the vitality and viability of the Town Centre through an 
+increase in the retail and social facilities on offer, modern 
+consumer behaviour in the UK has become far more complex over recent years. We are increasingly shopping in different ways, buying from a variety of different channels and 
+locations dependent on where we are in the day and 
+what we are doing. Buying patterns are also driven by convenience; there is now a diverse range of shopping 
+opportunities, whether it is locally, town centres, out-of-
+town, service stations, online, TV shopping, mobile shopping, travel locations or many more places, and the choices are 
+increasing all the time. 
+8.2 The NPPF advocates that local authorities should plan 
+positively, to support town centres to generate local 
+employment, promote beneficial competition within and between town centres, and create attractive, diverse places where people want to live, visit and work. They should 
+recognise town centres as the heart of their communities 
+and pursue policies to support their viability and vitality. 
+8.3 The NPPF is clear that there should be a ‘town centre 
+first’ policy giving preference to sites which are well connected to the town centre, as opposed to edge of 
+centre and out of centre proposals. We also need to consider 
+the individuality of town centres in terms of competition, consumer choice and diversity and where town centres are 
+in decline, future economic activity should be encouraged. 
+Residential developments and bringing vacant floor space above shops back into use could make a significant contribution to the enhancement of town centre locations 
+and offer opportunities for supporting regeneration and 
+increasing footfall at different times of the day.Implications of SA Scoping 
+information
+8.4 The Scoping Report identifies the following key 
+sustainability issues:
+ The need to ensure appropriate services and facilities are  
+ available and accessible to meet the needs arising from  
+ new residential development, whether through new  
+ provision or expansion of existing services and facilities;
+ The need to support and enhance the existing local  
+ centres;
+ The need to ensure interconnection between public  
+ transport services, e.g. connections from the Town  
+ Centre to Bromsgrove Town train station or between  
+ rural bus routes;
+ The need to encourage more walking and cycling, 
+ provision of safe and interconnected routes.
+8.5 Based on the information we have gathered in the 
+Scoping Report and our understanding of the broad issues facing town centres generally, we think we need to focus on the following issues in a local context, to explore how they 
+may impact on our District and how the Plan Review could 
+address them:
+ Bromsgrove Town Centre
+ Town Centre Movement and Connectivity
+ Local Centres 
+50Bromsgrove Town Centre
+8.6 As part of the        Bromsgrove Town Centre 
+Regeneration programme, Bromsgrove Town Centre has 
+had major investment and seen a number of improvements 
+to the public realm and additions of high quality retail such as Waitrose at the old Market Hall site. There has also been 
+major investment in its health services with the opening 
+of the new multi-million pound Town Centre Health Centre (Churchfields) and the new Bromsgrove Leisure Centre (completed in November 2017). There are also a number of 
+other developments within the Town Centre currently under 
+construction, including the refurbished Bromsgrove Retail Park on the Birmingham Road and a new Aldi store opposite. 
+Along with the addition of new retail and health facilities, 
+there has also been an increase in the number of independent bars and restaurants on offer, which has 
+supported the growth of the Town Centre’s evening economy. 
+8.7 Whilst the growth of the Town Centre’s evening economy 
+is a positive enhancement, we need to be mindful of the 
+wider structural shift that is underway, which might affect the future use of town centres. There is an increase in online shopping and banking, which might impact on our Town 
+Centre’s daytime economy. Bromsgrove Town Centre currently 
+lacks a worker economy, which could add vibrancy to the daytime economy, especially during the lunchtime period. 
+8.8 The vibrant market days attract a number of visitors and 
+has helped increase footfall to the primary shopping area of 
+the Town. The High Street also contains a number of historic 
+buildings of which some are listed and/or are protected by Conservation Area status and a number of historic buildings 
+in the Town Centre have benefitted from being part of the
+      Townscape Heritage Initiative (THI) programme which has funded improvements to historic shopfronts in the town and will run until December 2018. The Town Centre is 
+also home to the Artrix Arts Centre which hosts events and 
+offers the creative sector opportunities to be involved in creating distinct spaces that develop links and synergy across 
+the Town Centre.?
+Q. TC 1:  Do you feel positive about 
+what Bromsgrove Town Centre has to 
+offer? If not, why not?
+Q. TC 2:  Do you think Bromsgrove 
+Town Centre should be promoted for 
+more retail, commercial and leisure, office/employment generating uses or 
+residential led development?
+Q. TC 3:  Do you think that the current 
+policies in the Bromsgrove Development 
+Plan are promoting effective change and flexible enough to respond to rapid 
+change in retailing trends? 8.9 The District Council in partnership with NWedR has 
+adopted a Centres Strategy: 
+http://moderngovwebpublic.bromsgrove.gov.uk/
+documents/s34520/BromTownCentreStrategyFINAL.pdf with a key focus on identifying and co-ordinating 
+opportunities which will inject new vibrancy into 
+Bromsgrove Centres, strengthen communication and support local businesses. This Strategy along with the BDP identifies key issues and improvements needed for the Town Centre 
+whilst creating a town where people want to live, work and 
+socialise. Enhancing connectivity in Bromsgrove Town Centre to existing leisure facilities and the Bromsgrove Town train 
+station will help promote a positive image for the Town 
+helping it to continually grow, increase dwell times and encourage inward investment.
+GRefer to Glossary on page 66G
+G51
+Town Centre Movement and 
+Connectivity
+8.10 Bromsgrove Town’s train station is located 
+approximately one mile from the Town Centre and has 
+undergone recent refurbishment. The Town Centre is home 
+to the bus interchange, which provides Bromsgrove Town with regular links between the surrounding residential areas 
+and the wider region. There is however still an increased 
+reliability on car use in and around the Town Centre and there are poor pedestrian, cycle and bus linkages between the Town Centre and Bromsgrove Town train station. 
+There is a need to plan for and encourage better connectivity 
+and increase ‘walkability’ and cycle routes in and around the Town from the surrounding residential areas. Some public 
+realm improvements have been made recently, but there is 
+still some improvement needed in some of the connecting streets and spaces and also in relating to signage and way 
+marking.
+8.11 The previous section touched on the diverse variety 
+of uses on offer in Bromsgrove Town Centre, but how many 
+of our visitors treat our Town Centre as a go-to destination and stay long enough to enjoy it and make new discoveries? Hectic lifestyles see visitors ‘popping in’ for food shopping 
+or a medical appointment, for example, but visitors may be 
+missing opportunities to stop and discover more of what’s around them. For example, it’s only typically an 8 minute 
+walk to Sanders Park from Asda via the St. John’s 
+Conservation Area and it only takes typically 20 minutes to walk from one end of the Town Centre retail zone to the 
+other. If the future of town centres in general relies on 
+diversifying how and why they are used, we need to ensure that people can easily navigate around Bromsgrove Town 
+Centre once they have arrived. We need to encourage people 
+to visit our Town Centre as a longer-stay destination rather than as a short-term convenience. ?
+Q. TC 4:  Do you think pedestrian 
+priority, linkages and mobility within 
+and across the Town Centre could be 
+improved and also to the Town Centre from housing developments? If so, how?
+Q. TC 5:  Do you feel that the Town 
+Centre is safe and accessible to all? 
+Where do you feel improvements should 
+be made?
+Q. TC 6:  Do you think we need to 
+improve the general  connectivity between Bromsgrove Town train station 
+and the Town Centre? If so, how?
+52 GRefer to Glossary on page 66Local Centres
+8.12 The        Local Centres in the District are important 
+and provide essential local services to residents, as well as 
+connecting more rural areas of the District. There is a 
+hierarchy of smaller local centres, catering largely for the day to day needs of residents. These shopping locations are 
+in Alvechurch, Aston Fields, Barnt Green, Catshill, Hagley, 
+Rubery, Sidemoor and Wythall.
+8.13 Some of the District’s Local Centres have seen a rise 
+in vacancy rates in recent years, so it is important that they 
+are safeguarded for retail use into the future in order to ensure the long term sustainability of the Centres. The NPPF 
+promotes town and other centres as important places for 
+communities and the Government wants new economic growth and development for main town centre uses to 
+be focused in existing centres to ensure their vitality and 
+viability. G ?
+Q. TC 7:  Do you think your Local Centre 
+provides everything you need? If not, can 
+you identify your Local Centre and tell us 
+what you think it needs?
+?
+Q. TC 8:  Do you think there are any Town Centre & Local Centre Issues that 
+we have missed? If so, please tell us what 
+they are.
+SocialInfrastructure
+53
+The Council
+manages 8  
+allotment sites
+Life expectancy is almost
+80  
+years for men and 
+84
+years for womenOver  44%
+of household waste isrecycled or composted Nearly 
+ 68%
+ of adults are classed as overweightor obese
+21 
+GP practices/Health Centres24 
+outdoor facilitiesfor young people(including MUGAsand skate parks)32
+equipped children’s play areas
+Only  4.8%
+of residents considertheir health to be bad/very bad
+549. Social Infrastructure
+9.1 Bromsgrove District, being rural, makes it a much sought 
+after and desirable place to live, which  makes it more of a 
+challenge when it comes to ensuring communities have 
+access to supporting social infrastructure, facilities and services. This can be a particular issue in the District’s 
+smaller settlements, some of which are relatively isolated. 
+Settlements work by providing services for a wider area; the bigger the settlement, the more services it tends to have. Over time a settlement hierarchy has been established in 
+the District, with Bromsgrove Town providing most of the 
+services, whilst the smaller settlements have been limited to providing local services. As car ownership has increased, 
+service provision in the smaller settlements has tended to 
+decline as people choose to go further afield for services and facilities. 
+9.2 The NPPF highlights the important role that the 
+planning system has in creating a high quality built 
+environment, with accessible local services that reflect the 
+community’s needs and support its health, social and cultural well-being. As part of its economic role, the planning system should be identifying and coordinating development 
+requirements, including the provision of infrastructure.
+9.3 New development inevitably creates additional demands 
+on existing social infrastructure; therefore it is important to 
+plan for the delivery of these supporting services to ensure our communities continue to function successfully.Implications of SA Scoping 
+information
+9.4 The Scoping Report identifies the following key 
+sustainability issues:
+ The need to ensure provision of suitable and accessible  
+ health care services;
+ The need to address the following Health Priority Area  
+ Projects for Bromsgrove District:
+  Improve mental wellbeing;
+  Increase physical activity;
+  Reduce harm from alcohol; and
+  Ageing well.
+ The need to address the following Indices of Multiple  
+ Deprivation issues in the District’s most deprived areas:  
+ low incomes, high unemployment, low educational 
+ attainment and skills and poor health;
+ The need to create safe and secure living environments  
+ by reducing the level of crime in the District;
+ The need to ensure that good design principles are  
+ implemented for new development to reduce crime and  
+ improve safety;
+ The need to improve connectivity and accessibility in the  
+ District to reduce the chance of crime related incidents;
+ The need to ensure appropriate services and facilities are  
+ available and accessible to meet the needs arising from  
+ new residential development, whether through new  
+ provision or expansion of existing services and facilities;
+ The need to protect and enhance open space provision  
+ across the District.
+9.5 Based on the information we have gathered in the 
+Scoping Report and our understanding of social 
+infrastructure issues, we think we need to focus on the following issues in a local context, to explore how they 
+may impact on our District and how the Plan Review 
+could address them:
+ Community Facilities
+ Health and Education Facilities
+ Open Space, Sports and Recreation
+55?
+Q. SOI 1:  What types of community 
+facilities do you think are important for 
+the District? Do you think Bromsgrove 
+District has enough of them? Are they in the right locations and are they 
+sufficiently well equipped and fit for 
+purpose?
+Q. SOI 2:  Are there any community 
+and leisure facilities that you don’t currently have easy access to that you 
+feel would improve your quality of life 
+or benefit your local community? If so, please specify what and where you think 
+it should be provided.
+Q. SOI 3:  Do you feel that there are 
+enough things to do for different age 
+groups? ? Are there any age groups that you feel aren’t provided for?Community Facilities
+9.6 Community facilities can play an important role in our 
+health and well-being and offer opportunities for social 
+integration, which in turn can tackle the feeling of isolation. 
+This may be particularly important in some of our more rural and remote small settlements. Some growth can therefore 
+have a positive impact on a settlement’s ability to support 
+new and existing community facilities.
+9.7 The settlement hierarchy in Bromsgrove District means 
+that most community facilities are currently focussed in and 
+around the Town Centre and larger settlements, therefore more localised access to community facilities varies 
+significantly across the District.
+9.8 One of the challenges for the District in terms of the 
+provision of community facilities is ensuring existing and 
+new residents have access to the facilities they require, but also ensuring that these facilities can be sustained, 
+particularly in some of the smaller settlements. 
+While some of the smaller settlements have local accessto some facilities, they can be limited.  
+56?
+Q. SOI 4:  Do you think there is a 
+good range of health facilities in the 
+District? Do you think there are the right 
+types of facilities/services in the right locations and are they easy to access? 
+(e.g. locating healthcare facilities close 
+to homes for the elderly). Please explain your response.
+Q. SOI 5:  What educational 
+facilities do you think are needed in the 
+District to support existing and new 
+communities and to help address skills shortages within the local economy?Health and Education Facilities
+9.9 Ensuring the District’s communities have good health 
+and well-being is important to the Council, and making sure 
+we have the right health facilities in the right locations is key 
+to achieving this. Health facilities include hospitals, medical centres and specialist units and outpatient care centres. 
+As Bromsgrove District’s population grows and lives longer, 
+it is inevitable that there will be a higher demand for healthcare facilities.
+9.10 The general health of people living in Bromsgrove 
+District varies. While Bromsgrove District performs better than the national average for many health outcome 
+indicators, there are some areas of concern where 
+Bromsgrove District is much worse than the national average. This includes an increasing numbers of adults being classified 
+as overweight or obese, high levels of diabetes, high levels 
+of alcohol related liver disease, and injuries due to falls in some of the District’s older residents. In order to ensure that 
+we plan for the health of the District we need to look at the 
+existing healthcare provision, find out what works well, and look at whether we should be allocating new sites or expanding existing facilities to meet future demands.
+9.11 The Government attaches great importance to ensuring 
+that a sufficient choice of school places is available to meet 
+the needs of existing and new communities. Worcestershire 
+County Council is the responsible Local Education Authority and commissioner of school places for Bromsgrove District, 
+and advises on the current educational capacity and future 
+needs within the District. The District’s schools are currently very close to capacity and forecasts indicate that pupil 
+numbers are set to increase, which could result in a shortage 
+of school places, if the issue is not tackled directly. Forecasted pupil numbers and future growth in the District will require additional provision through new schools, or the expansion 
+of existing schools.
+57?
+Q. SOI 8:  Do you think the Plan could 
+do more to protect important open 
+space areas in the District? If so, which 
+particular areas are you concerned about and what do you think the Plan could do?
+Q. SOI 9:  Do you think there need to 
+be more allotment facilities within the 
+District? If so, where?
+Q. SOI 10:  Should we be thinking 
+about the provision of multifunctional 
+community ‘hubs’ , (in existing settlements and new developments) 
+which could provide all or some of the 
+above services and facilities in one location? Might this be a solution to 
+ensure their longevity and viability? 
+What types of functions do you think a community ‘hub’ should  provide?Open Space, Sports and 
+Recreation
+9.12 Planning can assist in encouraging people to lead 
+more active lifestyles, through the provision of open space 
+and facilities for sports and recreation. We currently support 
+proposals and activities that protect, retain or enhance existing sport, recreational and amenity assets, lead to the 
+provision of additional assets, or improve access to facilities.
+9.13 Whilst physical activity levels in the District are slightly 
+above the national average, good access to natural open 
+spaces can positively impact on our mental well-being and 
+social inclusion as well. In order to plan for a more physically and mentally healthier population, we need to understand 
+the needs for, and uses of, our open space, sports and 
+recreation facilities and look at opportunities for new and improved provision. For example, encouraging ‘countryside 
+walks’ through our natural open spaces and taking 
+advantage of available allotment facilities. 
+?
+Q. SOI 6:  Are there any existing parks 
+or areas of open space within the District 
+that you think could have a multi-use? 
+e.g. for recreation uses alongside green infrastructure
+Q. SOI 7:  The Council has been 
+focussing on creating fewer, higher 
+quality open spaces and play spaces 
+where more play equipment is provided in concentrated areas, rather than 
+providing lots of smaller play areas.
+Do you agree with this approach? If not what other approach would you suggest??
+Q. SOI 11:  Do you think there are any Social Infrastructure Issues that we 
+have missed? If so, please tell us what 
+they are.Natural and HistoricEnvironments
+58
+13  SSSIs 90  Local Wildlife
+Sites 12
+Conservation
+Areas
+13
+Scheduled Monuments 469 listed buildings
+3 
+Country Parks2 
+Registered Parksand Gardens59
+10. Natural and Historic
+Environments
+Natural Environment
+10.1 Bromsgrove District is fortunate to benefit from an 
+attractive setting within the Worcestershire countryside, 
+which contains a diverse range of biological and geological 
+assets. Our natural environment contains statutorily protected        Sites of Special Scientific Interest (SSSIs), 
+species and habitats, which are supplemented by locally 
+protected assets such as local wildlife sites. 10.2 This statutory protection means that in general terms our natural environment is afforded a reasonable level of 
+consideration, protection, mitigation and enhancement 
+throughout the        plan-making and decision-taking processes. It is essential for us to ensure that our natural 
+environment is protected and enhanced as much as possible, 
+and mitigation measures are seen as a last resort if there are no reasonable alternatives. 
+G
+GRefer to Glossary on page 66
+G60?
+Q. NE 1:  Which of the following 
+approaches do you think we should 
+adopt as we review the District Plan?
+Option 1:  Leave the policies as they 
+are if they are fit for purpose and only 
+consider amending them when national legislation and planning policy renders 
+them out of date
+Option 2:  Rewrite the policies
+Q. NE 2:  Do you think our current 
+policies (detailed above) are ineffective 
+in any way? If so, how?
+Q. NE 3:  How do you think the 
+policies in the Plan could help to develop 
+a nature recovery network and deliver net gains for biodiversity in the District? 
+?
+Q. NE 4:  Do you think there are any Natural Environment Issues that we 
+have missed? If so, please tell us what 
+they are.Implications of SA Scoping 
+information
+10.3 The Scoping Report identifies the following key 
+sustainability issues:
+ The need to conserve and enhance biodiversity including  
+ sites designated for their nature conservation value;
+ The need to maintain, restore and expand the District’s  
+ priority habitats;
+ The need to protect and enhance sites designated for  
+ their geological interest;
+ The need to safeguard and enhance the green 
+        infrastructure network, helping to meet 
+ the priorities of the Worcestershire Green Infrastructure  
+ Strategy; The need to conserve and enhance the District’s 
+ landscape character.
+10.4 Whilst we are mindful of the need to allocate land 
+for development in the District, we think that the NPPF coupled with the Natural Environment policies in the BDP , are 
+serving our assets well and addressing the key sustainability 
+issues identified above. However, the Government’s 25 year Environment Plan (2018) seeks to expand net gain 
+approaches used for biodiversity and advocates a natural 
+capital approach to help inform planning choices. The Plan encourages Local Planning Authorities to develop locally 
+tailored approaches that recognise the relationship between 
+the quality of the environment and development. The policies we have in the BDP are:
+ BDP21: Natural Environment
+ BDP24: Green Infrastructure
+10.5 Worcestershire County Council has undertaken a 
+comprehensive Landscape Character Assessment across the County which can be used to help inform future design 
+guidance for new development in different areas of the 
+District. 
+GRefer to Glossary on page 66G61
+Historic Environment
+10.6 Bromsgrove District’s attractive setting within the 
+Worcestershire countryside contains an extensive historic 
+environment, which offers a variety of unique and distinctive 
+characteristics throughout our District.
+10.7 The historic nature of Bromsgrove District means that 
+we have a significant number of statutorily protected assets such as listed buildings, conservation areas and scheduled monuments, amongst others.10.8 This statutory protection means that in general terms our historic environment is afforded a reasonable level of consideration, protection, mitigation and enhancement 
+throughout the plan-making and decision-taking processes.
+62?
+Q. HE 1:  Which of the following 
+approaches do you think we should 
+adopt as we review the District Plan?
+Option 1:  Leave the policy as it is if 
+it is fit for purpose and only consider 
+amending it when national legislation and planning policy renders it out of date
+Option 2:  Rewrite the policy
+Q. HE 2:  Do you think our current 
+policy (detailed above) is ineffective in any way? If so, how?
+?
+Q. HE 3:  Do you think there are any Historic Environment Issues that we 
+have missed? If so, please tell us what 
+they are.Implications of SA Scoping 
+information
+10.9 The Scoping Report identifies the following key 
+sustainability issues:
+ The need to avoid harm to both designated and 
+ non-designated heritage assets including with respect to  
+ impact via their setting;
+ The need to recognise the contribution made by the  
+ historic environment to the character of landscapes and  
+ townscapes;
+ The need to promote high quality design that respects  
+ local character;
+ The need to protect and enhance the District’s 
+ townscapes;
+ The need to protect and enhance the District’s cultural  
+ heritage assets and their settings;
+ The need to tackle heritage at risk, particularly those 
+ assets on the heritage at risk register classed as at 
+ highest risk.10.10 Whilst we are mindful of the need to allocate land for 
+development in the District, we think that the NPPF coupled 
+with the Historic Environment policy in the BDP , are serving 
+our assets well and addressing the key sustainability issues identified above. At this stage of the Plan Review, we don’t 
+think we need to consider altering it. The policy we have in 
+the BDP is:
+ BDP20: Managing the Historic Environment
+Climate Change andWater Resources
+63
+There are 3  Air Quality
+Management Areas
+in the DistrictA
+B
+C
+D
+E
+F
+G
+The average energy performance 
+of buildings in Bromsgrove is  D with 
+88% 
+of homes rated E or belowClimate projections indicate that the
+average daily summer temperature
+could increase by7.5%
+by the 2050’s
+There is potential for summer
+rainfall to increase by up to 33%
+by the 2050’sThe District has
+key /f_looding issuesThe District’s main
+aquifers have poor
+qualitative status64
+11. Climate Change and 
+Water Resources
+11.1 As we review the BDP and plan for future development, 
+we also need to be sensitive to the effects development can 
+have on our climate. We need to encourage measures to 
+reduce and mitigate against the impacts of        climate change and promote        climate resilience. There is a 
+history of over extraction of our water resources and a 
+continued need for aquifer protection within the District. 
+11.2 Meeting the challenges of climate change and flood 
+risk is enshrined in national and international legislation. 
+These statutory requirements mean that in general terms we are playing our part in helping to address  climate 
+change.G
+GRefer to Glossary on page 66Implications of SA Scoping 
+information
+11.3 The Scoping Report identifies the following key 
+sustainability issues:
+ The need to ensure that new development is adaptable  
+ to the effects of climate change;
+ The need to mitigate climate change including through  
+ increased renewable energy provision;
+ The need to protect and enhance the quality of the  
+ District’s water sources;
+ The need to promote the efficient use of water resources;
+ The need to ensure the timely provision of new water  
+ services infrastructure to meet demand arising from new  
+ development;
+ The need to ensure the timely provision of flood defence/ 
+ management infrastructure.G
+65?
+Q. CC 1:  Which of the following 
+approaches do you think we should 
+adopt as we review the District Plan?
+Option 1:  Leave the policies as they 
+are if they are fit for purpose and only 
+consider amending them when national legislation and planning policy renders 
+them out of date.
+Option 2:  Rewrite the policies
+Q. CC 2:  Do you think our current 
+policies (detailed above) are ineffective 
+in any way? If so, how??
+Q. CC 4:  Do you think there are any 
+Climate Change & Water Resource Issues 
+that we have missed? If so, please tell us 
+what they are.11.4 The policies we have in the BDP add a local context 
+and supplement the higher statute. We think that this 
+combination is serving our District well and at this stage 
+of the Plan Review, we don’t think we need to consider altering our policies. The policies we have in the BDP are:
+ BDP22: Climate Change
+ BDP23: Water Management
+11.5 In terms of air quality, within the District, we have 
+three AQMAs (M42, Lickey End; Redditch Road, Stoke Heath; Worcester Road, Bromsgrove), which have been declared 
+based on poor air quality in relation to road traffic emissions. 
+There is a strong emphasis in the BDP High Quality Design policy in mitigating air quality effects from traffic 
+emissions. However, there are other contributing factors 
+to poor air quality such as Nitrogen compounds from fertilisers and animal waste in relation to farming 
+activities, which aren’t addressed in the BDP .  
+?
+Q. CC 3:  Do you think we have any 
+air quality issues from other pollutants 
+within the District? If so, how should we 
+address them?
+Glossary
+66
+G67Glossary
+G
+GIssues and Options Glossary
+Page Para ref.  Terminology
+ 4  1.4 Bromsgrove District Plan/Local Plan 
+    This terminology is largely interchangeable. A plan for the future development of a local area,  
+    drawn up by the local planning authority in consultation with the community. In law this is   
+    described as the development plan documents adopted under the Planning and Compulsory
+    Purchase Act 2004. The local plan can consist of both strategic and local policies
+ 4  1.6 National Planning Policy Framework (NPPF)
+    The NPPF was first published in March 2012, replacing past Planning Policy Statements/Guidance
+    (PPSs/PPGs), and was revised and republished in July 2018. It sets out the Government’s 
+    planning policies for England, how these are expected to be applied and the Government’s   
+    requirements for the planning system only to the extent that it is relevant, proportionate and  
+    necessary to do so. It provides a framework within which local people and their accountable  
+    councils can produce their own distinctive local and neighbourhood plans, which reflect the  
+    needs and priorities of their communities
+ 4  1.6 Planning Practice Guidance 
+    The National Planning Practice Guidance (NPPG) is a web-based resource which brings together  
+    planning guidance on various topics into one place. It was launched in March 2014 and coincided  
+    with the cancelling of the majority of Government Circulars which had previously given guidance  
+    on many aspects of planning
+ 4  1.6 Sustainable Development 
+    A widely used definition drawn up by the World Commission on Environment and Development  
+    in 1987: “Development that meets the needs of the present without compromising the ability of  
+    future generations to meet their own needs” . The Government’s four aims, to be achieved 
+    simultaneously are: 
+     Social progress which recognises the needs of everyone
+     Effective protection of the environment
+     Prudent use of natural resources
+     Maintenance of high and stable levels of economic growth and employment
+ 4  1.6 Sustainability Appraisal (SA)
+    Appraisal of the economic, environmental and social effects of a plan from the outset of the  
+    preparation process to allow decisions to be made that accord with sustainable developmentG
+68GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 4  1.6 Habitat Regulations Assessment 
+    The purpose of the Habitat Regulations Assessment (HRA) is to identify any aspects of the 
+    emerging Local Plan that would have the potential to cause a likely significant effect on Natura  
+    2000 or European sites (Special Areas of Conservation (SACs), Special Protection Areas (SPAs) and
+    Ramsar sites), (either in isolation or in combination with other plans and projects), and to 
+    identify appropriate avoidance and mitigation strategies where such effects were identified.  
+    There is a legal requirement for all Local Plans to be subject to a HRA. The need for HRA is set out  
+    within Article 6 of the EC Habitats Directive 1992, and interpreted into British law by the 
+    Conservation of Habitats & Species Regulations 2010
+ 4  1.7 Housing White Paper
+    ‘Fixing our broken housing market’ is the housing white paper which sets out the Government’s  
+    plans to reform the housing market and boost the supply of new homes in England
+ 4  1.7 Community Infrastructure Levy (CIL)
+    Community Infrastructure Levy is a levy that local authorities can choose to charge on new 
+    developments in their area. The money should be used to support development by funding   
+    infrastructure that the council, local community and neighbourhoods want
+ 5  1.7 Tests of Soundness
+    Soundness means founded on a robust and credible evidence base and the most appropriate  
+    strategy when considered against the reasonable alternatives. For something to be sound is must  
+    also be positively prepared, justified, effective and consistent with national policy
+ 5  1.9 The Town and Country Planning (Local Planning) (England) Regulations 2012)
+    These Regulations set out the legislative procedures that need to be followed throughout the  
+    plan-making process
+ 5  1.9 Adoption
+    The final confirmation of a Local Plan as a statutory document by the Local Planning Authority
+ 5  1.10 SA Scoping Report 
+    The first stage of the Sustainability Appraisal (SA) process, which appraises baseline data, plans,  
+    policies and programmes and sets out the approach to undertaking SA 
+ 8  1.19 Brownfield Land or previously developed land (PDL) 
+    Land that contains permanent buildings (excluding agriculture or forestry buildings) and 
+    associated fixed-surface infrastructure. The definition covers the curtilage of the development69
+G
+GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 10  1.30 Local Development Scheme (LDS) 
+    Sets out the programme for developing the Local Plan and other Local Development Documents
+ 17  4.4 Neighbourhood Plan
+    A plan prepared by a parish council or neighbourhood forum for a designated neighbourhood  
+    area. Neighbourhood planning gives communities direct power to develop a shared vision for  
+    their neighbourhood and shape the development and growth of their local area. They are able to  
+    choose where they want new homes, shops and offices to be built, have their say on what those  
+    new buildings should look like and what infrastructure should be provided, and grant planning  
+    permission for the new buildings they want to see go ahead
+ 17  4.5 West Midlands Combined Authority
+    18 local authorities and four Local Enterprise Partnerships (LEPs) working together to move 
+    powers from Whitehall to the West Midlands and its locally elected politicians. 
+    Leadership of the WMCA comes from the Mayor and the leaders of the seven constituent local  
+    authorities, which have full voting rights. Non-constituent authorities, which include the LEPs  
+    and ten local councils from across the wider West Midlands region, have reduced voting rights  
+    but play a crucial role at board level, helping to inform policy and drive forward the WMCA   
+    agenda
+ 22  4.17 Local Housing Need
+    The number of homes identified as being needed through the application of the standard   
+    method set out in national planning guidance, or a justified alternative approach 
+    https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_ 
+    data/file/728247/How_is_a_minimum_annual_local_housing_need_figure_calculated_
+    using_the_standard_method.pdf 
+ 
+22  4.17  Household projections
+    Household projections are trend-based and indicate the number of additional households that  
+    would form if recent demographic trends continue
+ 22  4.17 Local affordability ratios
+    Housing affordability is calculated by dividing house prices by annual work place-based earnings.  
+    With respect to Bromsgrove District, the affordability ratio is 10.24, which is higher than the  
+    England average of 7.7G
+70GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 24  4.24 Safeguarded Land
+    Formerly referred to as Areas of Development Restraint (ADRs). Areas of land taken out of the  
+    Green Belt in the District Plan/ Local Plan which have been identified as possible land for new  
+    development when required in the future
+ 25  4.26 Housing Market Area
+    A geographical area defined by household demand and preferences for all types of housing,  
+    reflecting the key functional linkages between places where people live and work. It might be  
+    the case that housing market areas overlap.
+    The extent of the housing market areas identified will vary, and many will in practice cut across  
+    various local planning authority administrative boundaries. Local planning authorities should  
+    work with all the other constituent authorities under the duty to cooperate
+ 29  5.8 Affordable Housing 
+    Housing for sale or rent, for those whose needs are not met by the market (including housing  
+    that provides a subsidised route to home ownership and/or is for essential local workers); and  
+    which complies with one or more of the following: Affordable housing for rent, Starter homes,  
+    Discounted market sales housing, Other affordable routes to home ownership 
+ 29  5.9 Housing completions
+    The number of new homes built in a 12 month period (1 April to 31 March), which includes   
+    private market and affordable housing completions. Affordable housing is only secured on sites  
+    of 11 or more dwellings. The housing completions figure includes sites of less than 11 dwellings  
+    where no affordable housing contribution has been secured. Therefore the number of completed  
+    affordable housing units will always be less than (up to) 40% of all housing completions
+ 29  5.10 Essential local workers 
+    Public sector employees who provide frontline services in areas including health, education and  
+    community safety and can include NHS staff, teachers, police, firefighters and military personnel,  
+    social care and childcare workers
+ 29  5.10 Starter Homes
+    Intended for purchase by first-time buyers who fall within the 23 to 40 age range, and have a  
+    combined annual income of less than £80,000; as this age group has seen the most significant  
+    drop in home ownership over the last 20 years71
+G
+GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 29  5.12 Build to Rent 
+    Purpose built housing that is typically 100% rented out. It can form part of a wider multi-tenure  
+    development scheme comprising either flats or houses, but should be on the same site and/or  
+    contiguous with the main development. Schemes will usually offer longer tenancy agreements  
+    of three years or more, and will typically be professionally managed stock in single ownership  
+    and management control
+ 
+ 32  5.20 Self-build plots
+    Must have access to a public highway and have connections for electricity, water and waste water
+    at the plot boundary
+ 32  5.24 Building for Life 12 
+    A government-endorsed industry standard for well-designed homes and neighbourhoods. 
+    It comprises 12 easy to understand questions that are designed to be used as a way of structuring
+    discussions about a proposed development. There are four questions in each of the three 
+    chapters:
+     Integrating into the neighbourhood
+     Creating a place
+     Street and home
+ 36  6.12 Average weekly employee earnings
+    An estimate of average earnings based on the wages of people who work in Bromsgrove District 
+ 36  6.12 Average weekly resident earnings
+    An estimate of average earnings based on the wages of people who live in Bromsgrove District,  
+    but may work elsewhere in the Region
+ 37  6.15 Employment land requirement
+    Employment demand forecasting which includes forecasts of employment demand by linking  
+    property and economic analysis and identifying the priority sectors of the local economy. 
+    Includes forecasting of future floorspace needs and their uses
+ 37  6.15 Employment land supply 
+    The land identified to meet the employment land requirement within the DistrictG
+72GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 38  6.18 B use development
+    Defined by the Town and Country Planning (Use Classes) Order (1987) and is made up of B1a  
+    Offices, B1b Research & Development, B1c Light Industrial, B2 General Industrial, and B8 Storage  
+    and Distribution
+ 
+ 43  7.5 Air Quality Management Areas
+    Areas designated by local authorities because they are not likely to achieve national air quality  
+    objectives by the relevant deadlines
+ 50  8.6 Bromsgrove Town Centre Regeneration programme
+    Private and public investment (around £100 million) to stimulate rejuvenation of the historic  
+    town. Investment has provided a new Public Realm for the High Street and major new retail  
+    developments along its length. A new Health Centre, a new Library and a new Police and Fire  
+    Station have also been developed as part of the Bromsgrove Regeneration Programme
+ 50  8.8 Townscape Heritage Initiative (THI) programme
+    A £1.6 million heritage-led regeneration grant scheme jointly funded by the Heritage Lottery  
+    Fund, Worcestershire County Council and Bromsgrove District Council. It aims to contribute to the
+    regeneration of the town centre by working in partnership with local businesses and partners  
+    to repair and enhance historic properties in a specific area of High Street and Worcester Road,  
+    using traditional techniques, methods of construction and high quality natural or traditional  
+    materials
+ 52  8.12 Local Centres
+    Local Centres include a range of small shops of a local nature, serving a small catchment. 
+    Typically, local centres might include, amongst other shops, a small supermarket, a newsagent, 
+    a sub-post office and a pharmacy. Other facilities could include a hot-food takeaway and 
+    launderette. Local centres may also provide the focus for other community social facilities 
+    including health or education
+ 59  10.1 Sites of Special Scientific Interest (SSSIs)
+    Relates to specifically defined areas where protection is afforded to sites of national wildlife or  
+    geological interest. Natural England is responsible for identifying and protecting these sites73
+G
+GIssues and Options Glossary continued
+Page Para ref.  Terminology
+ 59  10.2 Plan-making and Decision-taking Processes
+    Plan-making is the process of preparing and producing a District Plan/ Local Plan. Decision-  
+    taking is the process of determining planning applications, which should be done in accordance  
+    with the District Plan/Local Plan unless material considerations indicate otherwise
+ 60  10.3 Green Infrastructure
+    The network of green spaces and natural elements that intersperse and connect our cities, 
+    towns and villages. It is the open spaces, waterways, gardens, woodlands, green corridors,   
+    wildlife habitats, street trees, natural heritage and open countryside. Green Infrastructure
+    provides multiple benefits for the economy, the environment and people
+ 64  11.1 Climate Change
+    An increase in the mean annual surface temperature of the earth’s atmosphere, due to increases  
+    in atmospheric concentrations of greenhouse gases (GHGs) such as Carbon Dioxide (CO 2), 
+    Methane (CH 4) and Nitrous Oxide (N2 O)
+ 
+ 64  11.1 Climate Resilience
+    To ensure development fully mitigates against the effects of climate change and minimises the  
+    potential impacts of climate change now and in the futureIf you need this information
+in another language or format,
+please contact us to discuss how we
+can best meet your needs.
+Phone: 01527 548284
+Email:
+equalities@bromsgroveandredditch.gov.uk
+Issues and Options
+Bromsgrove District Council 
+Planning and Regeneration      Parkside       Market Street       Bromsgrove
+Worcestershire B61 8DA
