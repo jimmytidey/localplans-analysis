@@ -1,10 +1,10 @@
-chroma
-experiments
-markdown
-pdfs
-split_markdown
-venv
-vite
+chroma/
+experiments/
+markdown/
+pdfs/
+split_markdown/
+venv/
+vite/
 /setup.cfg
 __pycache__/
 *.py[cod]
