@@ -1,9 +1,11 @@
 interface Props {
-  query: string;
+  fetchComparisonResult: string;
 }
 
-const Results = ({ query }: Props) => {
-  return <div>{query}</div>;
+const Results = ({ fetchComparisonResult }: Props) => {
+  return (
+    <div dangerouslySetInnerHTML={{ __html: fetchComparisonResult }}></div>
+  );
 };
 
 export default Results;

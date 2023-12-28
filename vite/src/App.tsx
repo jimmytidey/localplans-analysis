@@ -6,12 +6,23 @@ import "./App.css";
 
 function App() {
   const [fetchQuery, setQuery] = useState("");
+  const [fetchComparisonResult, setComparisonResult] = useState("");
 
   return (
     <>
-      <div className="flex-grid">
-        <QueryBox fetchQuery={fetchQuery} setQuery={setQuery}></QueryBox>
-        <Results query={fetchQuery}></Results>
+      <div className="container">
+        <p>
+          Type a topic into the below box to get a comparison of Southwark,
+          Tower Hamlets and Islington's planning approaches.
+        </p>
+
+        <p>Examples: 'Increasing housing supply', 'net biodiversity gain'</p>
+        <QueryBox
+          fetchQuery={fetchQuery}
+          setQuery={setQuery}
+          setComparisonResult={setComparisonResult}
+        ></QueryBox>
+        <Results fetchComparisonResult={fetchComparisonResult}></Results>
       </div>
     </>
   );

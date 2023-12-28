@@ -31,5 +31,11 @@
 
 # Ignored by the build system
 
-/setup.cfg
+chroma
+experiments
+markdown
+pdfs
+split_markdown
 venv
+vite
+/setup.cfg
