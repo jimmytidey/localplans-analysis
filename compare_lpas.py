@@ -2,70 +2,72 @@ from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.embeddings import SentenceTransformerEmbeddings
 import chromadb
+from helpers import pinecone_connect
 
 
-def compare_lpas(topic):
-    persistent_client = chromadb.PersistentClient()
+def compare_lpas(topic, lpa_1='Tamworth_Borough_Council', lpa_2='Northumberland_County_Council'):
 
-    print(persistent_client.list_collections())
-
-    collection = persistent_client.get_or_create_collection(
-        "all-MiniLM-L6-v2_1000_split")
+    index = pinecone_connect()
 
     embedding_model = SentenceTransformerEmbeddings(
         model_name="all-MiniLM-L6-v2")
 
-    embedding_model = SentenceTransformerEmbeddings(
-        model_name="all-MiniLM-L6-v2")
-
-    # Create context string
+    # embed query
     query = embedding_model.embed_documents(
         [topic],
     )
 
-    southwark_results = collection.query(
-        query_embeddings=query,
-        where={"LPA": "London_Borough_of_Southwark"},
-        n_results=5,
+    # Query
+    lpa_1_results = index.query(
+        vector=query,
+        filter={
+            "LPA": {"$eq": lpa_1},
+        },
+        top_k=8,
+        include_metadata=True
     )
 
-    southwark_results_string = '\n\n'.join(
-        southwark_results['documents'][0][0:4])
+    lpa_1_results_string = ''
+    for match in lpa_1_results['matches'][0:8]:
 
-    th_results = collection.query(
-        query_embeddings=query,
-        where={"LPA": "London_Borough_of_Tower_Hamlets"},
-        n_results=5,
-    )
-    th_results_string = '\n\n'.join(th_results['documents'][0][0:4])
+        lpa_1_results_string += match['metadata']['text'] + '\n'
 
-    islington_results = collection.query(
-        query_embeddings=query,
-        where={"LPA": "London_Borough_of_Islington"},
-        n_results=5,
+    lpa_2_results = index.query(
+        vector=query,
+        filter={
+            "LPA": {"$eq": lpa_2},
+        },
+        top_k=8,
+        include_metadata=True
     )
-    islington_results_string = '\n\n'.join(
-        islington_results['documents'][0][0:4])
+
+    lpa_2_results_string = ''
+    for match in lpa_2_results['matches'][0:8]:
+
+        lpa_2_results_string += match['metadata']['text'] + '\n'
 
     context = '''
-    Context from Southwark: 
-    {southwark_results}
+    Context from {lpa_1}: 
+    {lpa_1_results}
 
-    Context from Tower Hamlets: 
-    {th_results}
+    Context from {lpa_2}: 
+    {lpa_2_results}
 
-    Context from Islington: 
-    {islington_results}
+    '''.format(lpa_1_results=lpa_1_results_string,
+               lpa_2_results=lpa_2_results_string,
+               lpa_1=lpa_1,
+               lpa_2=lpa_2
+               )
 
-    '''.format(southwark_results=southwark_results_string,
-               th_results=th_results_string, islington_results=islington_results_string)
+    print('context length')
+    print(len(context))
 
     print(context)
 
-    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=1)
+    llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=1.5)
 
     query_string = '''
-    Compare the way Southwark, Tower Hamlets and Islington approach to the topic of {topic}, listing the three biggest differences. 
+    Compare the way the following 2  approach to the topic of {topic}, listing the three biggest differences. 
 
     {context} 
     '''. format(context=context, topic=topic)
