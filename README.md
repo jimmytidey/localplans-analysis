@@ -4,6 +4,6 @@ Experimenting with applying AI to Local Plans produced by planning authorities i
 
 This code analyses Local Plan PDFs and adds data to a vector store
 
-The repo also contains some noodling on ideas
+The repo also contains some noodling on ideas.
 
-See https://github.com/jimmytidey/localplans-server
+See https://github.com/jimmytidey/localplans-server for a front end

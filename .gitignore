@@ -25,7 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-
+notebooks/one_off_embed_pdfs
+notebooks/one_off_embed_txts
+notebooks/saved_local_plan_pdfs
+notebooks/saved_local_plan_txts
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
