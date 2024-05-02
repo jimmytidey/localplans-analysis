@@ -2,8 +2,10 @@
 import PyPDF2
 import os, json,re,hashlib
 import psycopg2
+from psycopg2 import extras
 from nltk.tokenize import sent_tokenize
 from langchain.embeddings import SentenceTransformerEmbeddings
+import pprint
 
 def pdf_to_text(source_pdf_folder_path, file_name):
 
@@ -34,18 +36,16 @@ def pdf_to_text(source_pdf_folder_path, file_name):
         print(e)
 
 def chunk_embed_send_to_db(text, filename, metadata):
-    cleaner_string = text.replace("\n", " ").replace("\r", "")
-
-    clean_string = re.sub("\s\s+", " ", cleaner_string)
+   
 
     # Split text
-    split_texts_list = sent_tokenize(clean_string)
+    split_texts_list = sent_tokenize(text)
 
     # Only keep sentences with more than 6 words
     proper_sentences = [i for i in split_texts_list if i.count(" ") >= 6]
-
-    print("number of sentences to embed")
-    print(len(proper_sentences))
+    print("Number of sentences", len (proper_sentences))
+    print('sentences')
+    pprint.pprint(proper_sentences)
 
     # Group sentences into triplets
     n = 3  # group size
@@ -54,16 +54,40 @@ def chunk_embed_send_to_db(text, filename, metadata):
         " ".join(proper_sentences[i: i + n])
         for i in range(0, len(proper_sentences), n - m)
     ]
+    pprint.pprint(triplets)
 
+    print('number of triplets ', len(triplets)) 
     # Truncate triplets to 1000 characters
-    triplets_trucated = [i[:1000] for i in triplets]
+    triplets_trucated = [i[:1000] for i in triplets][0:100]
 
+    print('number of triplets truncated', len(triplets_trucated)) 
+    pprint.pprint(triplets_trucated)
     # Insert into Postgres
     postgres_connection = Postgres()
-    for triplet in triplets_trucated:
-        postgres_connection.insert_text_fragment(
-            triplet, filename, metadata=metadata
-        )    
+    embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
+    print('inserting text fragments into db...')
+
+    batch_size = 10
+    text_batches = [triplets_trucated[x:x+batch_size] for x in range(0, len(triplets_trucated), batch_size)]
+   
+    print("number of batches", len(text_batches))
+    print("First batch length", len(text_batches[0]))
+
+    for text_batch in text_batches:
+        print("Text batch", text_batch)
+        print("Text batch length", len(text_batch))
+    
+    for text_batch in text_batches[5]:
+        text_fragments = []
+        for text in text_batch[5]:
+            vector = embedding_model.embed_documents(text)
+            hash = hashlib.sha256(text.encode()).hexdigest()
+            text_fragments.append((text, text, metadata, vector, filename, hash))
+            print("Text fragment batch", text_fragments[0:5])
+            print('...')
+            print("Text fragment batch", text_fragments[-5:])
+
+        #postgres_connection.insert_text_fragments(text_fragments)
 
 
 class Postgres:
@@ -88,18 +112,15 @@ class Postgres:
         except psycopg2.Error as e:
             print("Error:", e)
 
-    def insert_text_fragment(self, text, filename, metadata):
-        print("Inserting text fragment", text[:100])
-        embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
-        vector = embedding_model.embed_documents(text)
-        hash = hashlib.sha256(text.encode()).hexdigest()
+    def insert_text_fragments(self, batch):
 
         try:
             cursor = self.conn.cursor()
-            insert_query = "INSERT INTO text_fragments (plain_text, full_text, metadata, vector, filename, hash) VALUES (%s, to_tsvector('english', %s), %s, %s, %s, %s)"
-            interpolated_query = cursor.mogrify(insert_query, (text, text, json.dumps(metadata), vector[0], filename, hash))
-            print("Interpolated SQL query:", interpolated_query.decode("utf-8"))  
+            print("Inserting text fragment", batch[0:10])           
+            #interpolated_query = cursor.mogrify(insert_query, (text, text, json.dumps(metadata), vector[0], filename, hash))
+            #print("Interpolated SQL query:", interpolated_query.decode("utf-8"))  
             cursor.execute(insert_query, (text, text,json.dumps(metadata),vector[0],filename, hash))
+            extras.execute_batch(cursor, insert_query, batch)
             self.conn.commit()
             cursor.close()
 
