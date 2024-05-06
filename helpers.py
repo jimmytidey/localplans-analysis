@@ -1,14 +1,11 @@
-
-import PyPDF2
 import os, json,re,hashlib, pprint
 import psycopg2
 from psycopg2 import extras
-from nltk.tokenize import sent_tokenize
 from langchain.embeddings import SentenceTransformerEmbeddings
 import pprint
-
 from unstructured.partition.pdf import partition_pdf
 from unstructured.chunking.title import chunk_by_title
+from unstructured.chunking.basic import chunk_elements
 from unstructured.cleaners.core import clean
 import nltk
 import ssl,re
@@ -23,9 +20,9 @@ else:
 nltk.download('punkt')    
 
 def pdf_to_chunks(file_path): 
-    elements = partition_pdf(filename=file_path, strategy='fast', url=None)
+    elements = partition_pdf(filename=file_path, strategy='auto', url=None)
     
-    chunks = chunk_by_title(elements, max_characters=1000)
+    chunks = chunk_elements(elements, max_characters=1000, overlap=100)
     total_word_count = 0 
     for chunk in chunks:
         words = chunk.text.split()
@@ -33,7 +30,7 @@ def pdf_to_chunks(file_path):
         total_word_count += word_count
     print("total wordcount after chunking " + str(total_word_count))    
 
-    print(chunks[5].text)
+
     return chunks 
     
 
@@ -42,7 +39,7 @@ def embed_send_to_db(chunks, filename, metadata):
     print('inserting text fragments into db...')
 
     #Batch 
-    batch_size = 10
+    batch_size = 50
     chunk_batches = [chunks[x:x+batch_size] for x in range(0, len(chunks), batch_size)]
 
     pg = Postgres()
@@ -55,7 +52,7 @@ def embed_send_to_db(chunks, filename, metadata):
             clean_text = clean(chunk.text,extra_whitespace=True, dashes=True,bullets=True,trailing_punctuation=True)
             vector = embedding_model.embed_documents(clean_text)
             hash = hashlib.sha256(clean_text.encode()).hexdigest()
-            text_fragment = (clean_text, clean_text, metadata, vector[0], filename, hash)
+            text_fragment = (clean_text, clean_text, json.dumps(metadata), vector[0], filename, hash)
             text_fragments.append(text_fragment)
     
             pprint.pp((clean_text,metadata, vector[0][0:3], filename, hash))
